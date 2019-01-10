@@ -1,0 +1,365 @@
+---
+references:
+
+- id: barthes89
+  type: chapter
+  author:
+    given: Roland
+    family: Barthes
+  title: Reading Brillat-Savarin
+  container-title: The rustle of language
+  translator:
+    given: Richard
+    family: Howard
+  publisher: University of California Press
+  publisher-place: Berkeley
+  issued:
+    year: 1989
+
+- id: becker12
+  type: book
+  author:
+    given: Becker
+    family: David Levin
+  title: "Many subtle channels: in praise of potential literature"
+  publisher: Harvard University Press
+  publisher-place: Cambridge
+  issued:
+    year: 2012
+
+- id: chun11
+  type: book
+  author:
+    given: Wendy
+    family: Wendy Hui Kyong
+  title: "Programmed visions: software and memory"
+  publisher: MIT Press
+  publisher-place: Cambridge
+  issued:
+    year: 2011
+
+- id: against-expression
+  type: book
+  editor:
+  - given: Craig
+    family: Dworkin
+  - given: Kenneth
+    family: Goldsmith
+  title: "Against expression: an anthology of conceptual writing"
+  publisher: Northwestern University Press
+  publisher-place: Evanstan
+  issued:
+    year: 2011
+
+- id: eco09
+  type: book
+  author:
+    given: Umberto
+    family: Eco
+  title: The Infinity of Lists
+  publisher: Rizzoli
+  publisher-place: New York
+  issued:
+    year: 2009
+
+- id: ernst13
+  type: book
+  author:
+    given: Wolfgang
+    family: Ernst
+  editor:
+    given: Jussi
+    family: Parikka
+  title: Digital memory and the archive
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  issued:
+    year: 2013
+
+- id: foucault73
+  type: book
+  author:
+    given: Michel
+    family: Foucault
+  title: "The order of things: an archeology of the human sciences"
+  publisher: Vintage
+  publisher-place: New York
+  issued:
+    year: 1973
+
+- id: folsom07
+  type: article-journal
+  author:
+    given: Ed
+    family: Folsom
+  title: "Database as genre: the epic transformation of archives"
+  container-title: PMLA
+  volume: 122
+  issue: 5
+  issued:
+    month: 10
+    year: 2007
+  page: 1571-1579
+  source: JSTOR
+  URL: http://www.jstor.org/stable/25501803
+
+- id: galloway12
+  type: book
+  author:
+    given: Andrew
+    family: Galloway
+  title: The interface effect
+  publisher: Polity
+  publisher-place: Cambridge
+  issued:
+    year: 2012
+
+- id: gitelman13
+  type: book
+  editor:
+    given: Lisa
+    family: Gitelman
+  title: Raw data is an oxymoron
+  publisher: MIT Press
+  publisher-place: Cambridge
+  issued:
+    year: 2013
+
+- id: hayles07
+  type: article-journal
+  author:
+    given: N. Katherine
+    family: Kayles
+  title: "Narrative and database: natural symbionts"
+  container-title: PMLA
+  volume: 122
+  issue: 5
+  issued:
+    month: 10
+    year: 2007
+  page: 1603-1608
+  source: JSTOR
+  URL: http://www.jstor.org/stable/25501808
+
+- id: hu15
+  type: book
+  author:
+    given: Tung-Hui
+    family: Hu
+  title: A prehistory of the cloud
+  publisher: MIT Press
+  publisher-place: Cambridge
+  issued:
+    year: 2015
+
+- id: jack17
+  type: article-magazine
+  author:
+    given: Ian
+    family: Jack
+  title: Remembrance of meals past
+  container-title: The Guardian
+  issued:
+    day: 24
+    month: 4
+    year: 2004
+  accessed:
+    day: 13
+    month: 3
+    year: 2017
+  URL: https://www.theguardian.com/books/2004/apr/24/featuresreviews.guardianreview3
+
+- id: jagoda16
+  type: book
+  author:
+    given: Patrick
+    family: Jagoda
+  title: Network aesthetics
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    year: 2016
+
+- id: johnson12
+  type: article-journal
+  author:
+    given: Christopher D.
+    family: Johnson
+  title: N+2, or a late renaissance poetics of enumeration
+  container-title: MLN
+  volume: 127
+  issue: 5
+  issued:
+    month: 12
+    year: 2005
+  page: 1096-1143
+  source: Project Muse
+  DOI: 10.1353/mln.2012.0140
+  URL: http://muse.jhu.edu/article/503779
+
+- id: kant00
+  type: book
+  author:
+    given: Immanuel
+    family: Kant
+  translator:
+  - given: Paul
+    family: Guyer
+  - given: Eric
+    family: Matthews
+  title: Critique of the power of judgement
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  issued:
+    year: 2000
+
+- id: liu08
+  type: book
+  author:
+    given: Alan
+    family: Liu
+  title: "Local transcendence: essays on postmodern historicism and the database"
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    year: 2008
+
+- id: mccarty04
+  type: chapter
+  author:
+    given: Willard
+    family: McCarty
+  title: "Modeling: a study in words and meanings"
+  container-title: A Companion to Digital Humanities
+  editor:
+  - given: Susan
+    family: Schreibman
+  - given: Ray
+    family: Siemens
+  - given: John
+    family: Unsworth
+  publisher: Blackwell
+  publisher-place: Oxford
+  issued:
+    year: 2004
+  source: Wiley Online Library
+  DOI: 10.1002/9780470999875.ch19
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470999875.ch19
+
+- id: mcgann07
+  type: article-journal
+  author:
+    given: Jerome
+    family: McGann
+  title: Database, interface, and archival fever
+  container-title: PMLA
+  volume: 122
+  issue: 5
+  issued:
+    month: 10
+    year: 2007
+  page: 1588-1592
+  source: JSTOR
+  URL: http://www.jstor.org/stable/25501805
+
+- id: mcgill07
+  type: article-journal
+  author:
+    given: Meredith
+    family: McGill
+  title: Remediating Whitman
+  container-title: PMLA
+  volume: 122
+  issue: 5
+  issued:
+    month: 10
+    year: 2007
+  page: 1592-1596
+  source: JSTOR
+  URL: http://www.jstor.org/stable/25501806
+
+- id: perec-life
+  type: book
+  author:
+    given: Georges
+    family: Perec
+  translator:
+    given: David
+    family: Bellos
+  title: Life a user’s manual
+  title-short: Life
+  publisher: Verba Mundi
+  publisher-place: Boston
+  issued:
+    year: 2009
+
+- id: perec-infraordinaire
+  type: book
+  author:
+    given: Georges
+    family: Perec
+  title: L’infraordinaire
+  publisher: Seuil
+  publisher-place: Paris
+  issued:
+    year: 1989
+
+- id: perec-penser
+  type: book
+  author:
+    given: Georges
+    family: Perec
+  title: Penser/classer
+  title-short: Penser
+  publisher: Hachette
+  publisher-place: Paris
+  issued:
+    year: 1998
+
+- id: perec-thoughts
+  type: book
+  author:
+    given: Georges
+    family: Perec
+  translator:
+    given: David
+    family: Bellos
+  title: Thoughts of Sorts
+  title-short: Thoughts
+  publisher: Verba Mundi
+  publisher-place: Boston
+  issued:
+    year: 2009
+
+- id: perec-inventory
+  type: chapter
+  author:
+    given: Georges
+    family: Perec
+  title: "Attempt at an inventory of the liquid and solid foodstuffs ingurgitated by me in the course of the year nineteen hundred and seventy-four"
+  title-short: Inventory
+  container-title: "Against eexpression: an anthology of conceptual writing"
+  editor:
+  - given: Craig
+    family: Dworkin
+  - given: Kenneth
+    family: Goldsmith
+  publisher: Northwestern University Press
+  publisher-place: Evanstan
+  issued:
+    year: 2011
+  page: 477-482
+
+- id: virgil91
+  type: book
+  author:
+    family: Virgil
+  title: Georgics
+  translator:
+    given: James
+    family: Rhoades
+  publisher: Kegan Paul, Trench, Trübner & Co.
+  publisher-place: London
+  issued:
+    year: 1891
+...

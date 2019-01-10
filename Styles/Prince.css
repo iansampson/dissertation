@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'Minion';
+    src: url('fonts/MinionPro-Regular.otf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Minion';
+    src: url('fonts/MinionPro-It.otf');
+    font-style: italic;
+}
+
+@page {
+    size: letter;
+    margin: 1in;
+}
+
+@page {
+    @bottom {
+        content: counter(page);
+        font-family: 'Minion';
+        font-size: 12pt;
+        font-weight: 400;
+        font-variant: prince-opentype(liga, onum);
+        margin-bottom: 0.5in;
+    }
+}
+
+body {
+    font-family: 'Minion';
+    font-size: 12pt;
+    font-variant: prince-opentype(liga, onum);
+    /*font-variant-numeric: oldstyle-nums;*/
+    line-height: 2.4;
+    /*max-width: 440pt;
+    margin-top: 36pt;
+    margin-bottom: 72pt;
+    padding-left: 24pt;
+    padding-right: 24pt;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FBFBFB;
+    color: hsla(0, 0%, 0%, 0.8);*/
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p + p {
+  text-indent: 1.5em;
+}
+
+blockquote {
+  line-height: 1.2;
+  margin-top: 7.2pt;
+  margin-bottom: 7.2pt;
+  padding-top: 0;
+  padding-bottom: 0;
+  break-inside: avoid;
+}
+
+blockquote blockquote {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.title::after {
+  content: ":"
+}
+
+hr {
+  display: none
+}
+
+ol {
+  margin-left: 16pt;
+  padding-left: 0;
+  /*list-style-position: inside;*/
+}
+
+.footnotes li {
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 14.4pt;
+}
+
+.footnotes {
+    line-height: 1.2;
+}
+
+h1 {
+    break-before: page;
+}
+
+header {
+  margin-bottom: 28.8pt;
+}
+
+h1, .title, .subtitle {
+  font-family: 'Minion';
+  font-size: 12pt;
+  font-weight: 400;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.author, .date {
+  display: none;
+}
+
+.footnote-back {
+    display: none;
+}
+
+.references p {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
+.footnote-ref {
+  color: black;
+}
+
+span.smallcaps {
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
