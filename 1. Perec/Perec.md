@@ -1,12 +1,4 @@
----
-title: Counting the Ineffable
-subtitle: Georges Perec and the Vertigo of Lists
-author: Ian Sampson
-date: 27 March 2017
-bibliography: "../bibliography.yaml"
-nocite: |
-  @perec-penser
----
+# Counting the Ineffable: Georges Perec and the Vertigo of Lists
 
 In his 1982 essay “Penser/Classer,” the last piece he wrote before his death, Georges Perec offers the following reflection on the art of writing lists:
 
