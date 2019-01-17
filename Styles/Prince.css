@@ -97,20 +97,20 @@ ol {
 
 h1 {
     break-before: page;
-}
-
-header {
-  margin-bottom: 28.8pt;
+    margin-bottom: 28.8pt;
 }
 
 h1, .title, .subtitle {
   font-family: 'Minion';
   font-size: 12pt;
   font-weight: 400;
-  margin-bottom: 0;
   padding-bottom: 0;
   text-transform: uppercase;
   text-align: center;
+}
+
+header > h1 {
+  margin-bottom: 0;
 }
 
 .author, .date {
@@ -133,4 +133,12 @@ h1, .title, .subtitle {
 span.smallcaps {
   font-variant: small-caps;
   text-transform: lowercase;
+}
+
+.tableOfContents a[href]::after {
+  content: leader(" ") target-counter(attr(href), page)
+}
+
+td {
+  padding-right: 3em;
 }
