@@ -1,6 +1,9 @@
 ---
 references:
 
+
+# MARK: - Perec
+
 - id: barthes89
   type: chapter
   author:
@@ -47,7 +50,7 @@ references:
     family: Goldsmith
   title: "Against expression: an anthology of conceptual writing"
   publisher: Northwestern University Press
-  publisher-place: Evanstan
+  publisher-place: Evanston
   issued:
     year: 2011
 
@@ -362,4 +365,649 @@ references:
   publisher-place: London
   issued:
     year: 1891
+
+
+# MARK: - Bök
+
+- id: adorno91
+  type: chapter
+  author:
+    given: Theodore
+    family: Adorno
+  title: On Lyric Poetry and Society
+  container-title: Notes to Literature
+  translator:
+    given: Shierry
+    family: Weber Nicholsen
+  volume: 1
+  publisher: Columbia University Press
+  publisher-place: New York
+  issued:
+    year: 1991
+  page: 37-54
+  number-of-volumes: 2
+
+- id: ahenda16
+  type: post
+  author:
+    family: "@leslieahenda"
+  title: "I’m disappointed that there’s no ankh emoji, but here’s part of Christian Bök’s ‘Eunoia’ translated into emoji."
+  container-title: Twitter
+  issued:
+    day: 18
+    month: 2
+    year: 2016
+    time: "11:15 a.m."
+    # TODO: Time doesn’t appear in cite.
+    # TODO: Missing link.
+
+- id: baetens09
+  type: article-journal
+  author:
+  - given: Jan
+    family: Baetens
+  - given: Poucel
+    family: Jean-Jacques
+  title: "Introduction: The Challenge of Constraint"
+  container-title: Poetics Today
+  volume: 30
+  issue: 4
+  issued:
+    year: 2009
+  page: 611-634
+  accessed:
+    day: 3
+    month: 11
+    year: 2014
+  source: Duke University Press
+  DOI: 10.1215/03335372-2009-006
+
+- id: barth84
+  type: chapter
+  author:
+    given: John
+    family: Barth
+  title: The Literature of Exhaustion
+  container-title: "The Friday Book: Essays and Other Non-Fiction"
+  publisher: Johns Hopkins University Press
+  publisher-place: London
+  issued:
+    year: 1984
+
+- id: bedient16
+  type: article-magazine
+  author:
+    given: Calvin
+    family: Bedient
+  title: "Against Conceptualism: Defending the Poetry of Affect."
+  container-title: Boston Review
+  issued:
+    day: 24
+    month: 7
+    year: 2013
+  accessed:
+    day: 12
+    month: 4
+    year: 2016
+  URL: http://bostonreview.net/poetry/against-conceptualism
+
+- id: benabou86
+  type: chapter
+  author:
+    given: Marcel
+    family: Bénabou
+  title: Rule and Constraint
+  container-title: "Oulipo: A Primer of Potential Literature"
+  editor:
+    given: Warren
+    family: Motte
+  publisher: University of Nebraska Press
+  publisher-place: Lincoln
+  issued:
+    year: 1986
+  page: 40-47
+
+- id: bök01
+  type: book
+  author:
+    given: Christian
+    family: Bök
+  title: Eunoia
+  publisher: Coachhouse
+  publisher-place: Toronto
+  issued:
+    year: 2001
+
+- id: bök08
+  type: post-weblog
+  author:
+    given: Christian
+    family: Bök
+  title: Late Past the Post
+  container-title: Harriet Blog
+  issued:
+    day: 12
+    month: 2
+    year: 2008
+  accessed:
+    day: 12
+    month: 4
+    year: 2016
+  source: The Poetry Foundation
+  URL: https://www.poetryfoundation.org/harriet/2008/02/late-past-the-post
+
+- id: bök07
+  type: post-weblog
+  author:
+    given: Christian
+    family: Bök
+  title: Nude Formalism (Redux)
+  container-title: Harriet Blog
+  issued:
+    day: 9
+    month: 12
+    year: 2007
+  accessed:
+    day: 24
+    month: 1
+    year: 2015
+  source: The Poetry Foundation
+  URL: https://www.poetryfoundation.org/harriet/2007/12/nude-formalism-redux
+
+- id: bök11
+  type: article-magazine
+  author:
+    given: Christian
+    family: Bök
+  title: "On Being Stubborn: Close Listening with Christian Bök."
+  container-title: Jacket 2
+  issued:
+    month: 4
+    year: 2011
+  accessed:
+    day: 24
+    month: 1
+    year: 2015
+  URL: https://jacket2.org/interviews/being-stubborn
+
+- id: bök09
+  type: chapter
+  author:
+    given: Christian
+    family: Bök
+  title: When Cyborgs Versify
+  container-title: "The Sound of Poetry / The Poetry of Sound"
+  # TODO: Second half of title is lowercased in cite.
+  editor:
+  - given: Marjorie
+    family: Perloff
+  - given: Craig
+    family: Dworkin
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  page: 129-141
+
+- id: bök02
+  type: book
+  author:
+    given: Christian
+    family: Bök
+  title: "’Pataphysics: The Poetics of an Imaginary Science"
+  publisher: Northwestern University Press
+  publisher-place: Evanston
+  issued:
+    year: 2002
+
+- id: xenotext
+  type: book
+  author:
+    given: Christian
+    family: Bök
+  title: "Xenotext: Book 1"
+  publisher: Coachhouse
+  publisher-place: Toronto
+  issued:
+    year: 2015
+
+- id: duchamp73
+  type: book
+  author:
+    given: Marcel
+    family: Duchamp
+  title: "Salt Seller: The Writings of Marcel Duchamp (Marchand du sel)"
+  # French title in parentheses is uppercased in cite.
+  editor:
+  - given: Michel
+    family: Sanouillet
+  - given: Elmer
+    family: Peterson
+  publisher: Oxford University Press
+  publisher-place: New York
+  issued:
+    year: 1973
+
+- id: dworkin07
+  type: article-journal
+  author:
+    given: Craig Douglas
+    family: Dworkin
+  title: The Imaginary Solution
+  container-title: Contemporary Literature
+  volume: 48
+  issue: 1
+  issued:
+    year: 2007
+  page: 29-60
+  source: Project Muse
+  DOI: 10.1353/cli.2007.0023
+
+- id: eco86
+  type: book
+  author:
+    given: Umberto
+    family: Eco
+  title: Semiotics and the Philosophy of Language
+  publisher: Indiana University Press
+  publisher-place: Bloomington
+  issued:
+    year: 1986
+
+- id: eliot05
+  type: chapter
+  author:
+    given: T. S.
+    family: Eliot
+  title: The Lovesong of J. Alfred Prufrock
+  container-title: The Norton Anthology of Poetry
+  editor:
+  - given: Margaret W.
+    family: Ferguson
+  - given: Mary Jo
+    family: Salter
+  - given: Jon
+    family: Stallworthy
+  edition: 5
+  publisher: Norton
+  publisher-place: New York
+  page: 1340
+  issued:
+    year: 2005
+
+- id: fujiwara
+  type: webpage
+  author:
+    given: Denise
+    family:  Fujiwara
+  title: Technical Information
+  container-title: Fujiwara Dance Inventions
+  accessed:
+    day: 12
+    month: 4
+    year: 2016
+  URL: http://www.fujiwaradance.com/eunoia.html
+
+- id: goldsmith15
+  type: post-weblog
+  author:
+    given: Kenneth
+    family: Goldsmith
+  title: "Conceptual Poetics: An Editorial Pause"
+  container-title: Harriet Blog
+  issued:
+    day: 9
+    month: 6
+    year: 2008
+  accessed:
+    day: 24
+    month: 1
+    year: 2015
+  source: The Poetry Foundation
+  URL: https://www.poetryfoundation.org/harriet/2008/06/conceptual-poetics-an-editorial-pause
+
+- id: goldsmith09
+  type: article-magazine
+  author:
+    given: Kenneth
+    family: Goldsmith
+  title: "Flarf is Dionysus. Conceptual Writing is Apollo."
+  container-title: Poetry Magazine
+  issued:
+    month: 7
+    # TODO: Should be July/August.
+    year: 2009
+  accessed:
+    day: 13
+    month: 4
+    year: 2016
+  source: The Poetry Foundation
+  URL: https://www.poetryfoundation.org/poetrymagazine/articles/69328/flarf-is-dionysus-conceptual-writing-is-apollo
+
+- id: kaufman06
+  type: chapter
+  author:
+    given: Robert
+    family: Kaufman
+  title: "Everybody Hates Kant: Blakean Formalism and the Symmetries of Laura
+Moriarty"
+  container-title: Reading for Form
+  editor:
+  - given: Wolfson
+    family: Susan
+  - given: Marshall
+    family: Brown
+  publisher: University of Washington Press
+  publisher-place: Seattle
+  issued:
+    year: 2006
+  page: 203-230
+
+- id: kaufman06b
+  type: chapter
+  author:
+    given: Robert
+    family: Kaufman
+  title: "Lyric’s Expression: Musicality, Conceptuality, Critical Agency"
+  container-title: Adorno and Literature
+  editor:
+  - given: David
+    family: Cunningham
+  - given: Nigel
+    family: Mapp
+  publisher: Continuum
+  publisher-place: New York
+  issued:
+    year: 2006
+  page: 99-116
+
+- id: kaufman01
+  type: article-journal
+  author:
+    given: Robert
+    family: Kaufman
+  title: "Negatively Capable Dialectics: Keats, Vendler, Adorno, and the Theory of the Avant-
+Garde"
+  container-title: Critical Inquiry
+  volume: 27
+  issue: 2
+  issued:
+    # month: Winter
+    year: 2001
+  page: 354-384
+  source: JSTOR
+  URL: http://www.jstor.org/stable/1344254
+
+- id: izenberg11
+  type: book
+  author:
+    given: Oren
+    family: Izenberg
+  title: "Being Numerous: Poetry and the Ground of Social Life"
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  issued:
+    year: 2011
+
+- id: jarry11
+  type: book
+  author:
+    given: Alfred
+    family: Jarry
+  title: "Gestes et opinions du docteur Faustroll, pataphysicien: Roman néoscientifique"
+  publisher: Charpentier
+  publisher-place: Paris
+  issued:
+    year: 1911
+  language: fr-FR
+
+- id: jarry96
+  type: book
+  author:
+    given: Alfred
+    family: Jarry
+  title: "Exploits and Opinions of Dr. Faustroll, Pataphysician"
+  translator:
+    given: Simon Watson
+    family: Taylor
+  publisher: Exact Change
+  publisher-place: Boston
+  issued:
+    year: 1996
+
+- id: lin09
+  type: interview
+  author:
+    given: Tan
+    family: Lin
+  title: Tan Lin Interviewed
+  container-title: Galatea Resurrects
+  volume: 12
+  editor:
+    given: Tabios
+    family: Eileen
+  issued:
+    day: 18
+    month: 5
+    year: 2009
+  accessed:
+    day: 12
+    month: 4
+    year: 2016
+  URL: http://galatearesurrection12.blogspot.com/2009/05/tan-lin-interviewed.html
+
+- id: meltzer13
+  type: book
+  author:
+    given: Eve
+    family: Meltzer
+  title: "Systems We Have Loved: Conceptual Art, Affect, and the Antihumanist Turn"
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    year: 2013
+
+- id: ngai05
+  type: book
+  author:
+    given: Sianne
+    family: Ngai
+  title: Ugly Feelings
+  publisher: Harvard University Press
+  publisher-place: Harvard
+  issued:
+    year: 2005
+
+- id: puff14
+  type: article-journal
+  author:
+    given: Jean-François
+    family: Puff
+  title: La contrainte et la règle
+  container-title: Poétique
+  volume: 140
+  issue: 4
+  issued:
+    year: 2004
+  page: 455-465
+  accessed:
+    day: 19
+    month: 11
+    year: 2014
+  source:  Cairn.info
+  DOI: 10.3917/poeti.140.0455
+  ISSN: 1245-1274
+  language: fr-FR
+
+- id: ohara05
+  type: chapter
+  author:
+    given: Frank
+    family: O’Hara
+  title: The Day Lady Died
+  container-title: The Norton Anthology of Poetry
+  editor:
+  - given: Margaret W.
+    family: Ferguson
+  - given: Mary Jo
+    family: Salter
+  - given: Jon
+    family: Stallworthy
+  edition: 5
+  publisher: Norton
+  publisher-place: New York
+  page: 1728
+
+- id: perec79
+  author:
+    given: Georges
+    family: Perec
+  title: History of the Lipogram
+  container-title: "Oulipo: A Primer of Potential Literature"
+  editor:
+    given: Warren
+    family: Motte
+  publisher: University of Nebraska Press
+  publisher-place: Lincoln
+  issued:
+    year: 1986
+  page: 97-107
+
+- id: perloff04
+  type: article-journal
+  author:
+    given: Marjorie
+    family: Perloff
+  title: "The Oulipo Factor: The Procedural Poetics of Christian Bök and Caroline Bergvall"
+  container-title: Textual Practice
+  volume: 18
+  issue: 1
+  issued:
+    year: 2004
+  page: 23-45
+  source: Taylor & Francis
+  DOI: 10.1080/0950236042000183250
+
+- id: perloff16
+  type: article-journal
+  author:
+    given: Marjorie
+    family: Perloff
+  title: "Towards a Conceptual Lyric: From Content to Context"
+  container-title: Jacket 2
+  issued:
+    day: 28
+    month: 7
+    year: 2011
+  accessed:
+    day: 13
+    month: 4
+    year: 2016
+  URL: https://jacket2.org/article/towards-conceptual-lyric
+
+- id: queneau89
+  type: book
+  author:
+    given: Raymond
+    family: Queneau
+  title: Œuvres complètes
+  editor:
+    given: Claude
+    family: Debon
+  volume: 1
+  publisher-place: Paris
+  publisher: Gallimard
+  issued:
+    year: 1989
+  language: fr-FR
+
+- id: ranciere13
+  type: book
+  author:
+    given: Jacques
+    family: Rancière
+  title: "Aisthesis: Scenes from the Aesthetic Regime of Art"
+  translator:
+    given: Zakir
+    family: Paul
+  publisher: Verso
+  publisher-place: London
+  issued:
+    year: 2013
+
+- id: ranciere06
+  type: book
+  author:
+    given: Jacques
+    family: Rancière
+  title: The Politics of Aesthetics
+  translator:
+    given: Gabriel
+    family: Rockhill
+  publisher: Bloomsbury
+  publisher-place: New York
+  issued:
+    year: 2006
+
+- id: roubaud88
+  type: chapter
+  author:
+    family: Roubaud
+    given: Jacques
+  title: "Deux principes parfois respectés par les travaux oulipiens"
+  container-title: Atlas de littérature potentielle
+  publisher: Gallimard
+  publisher-place: Paris
+  issued:
+    year: 1988
+  language: fr-FR
+
+- id: roubaud98
+  type: chapter
+  author:
+    family: Roubaud
+    given: Jacques
+  title: "Introduction"
+  container-title: Oulipo Compendium
+  editor:
+  - given: Harry
+    family: Matthews
+  - given: Alastair
+    family: Brotcshie
+  publisher: Atlas Press
+  # TODO: Consider shortening to Atlas.
+  publisher-place: London
+  issued:
+    year: 1998
+  page: 37-44
+
+- id: starnino04
+  type: chapter
+  author:
+    given: Carmine
+    family: Starnino
+  title: "Vowel Movements (Christian Bök)"
+  container-title: "A Lover’s Quarrel: Essays and Reviews"
+  publisher: The Porcupine’s Quill
+  publisher-place: Erin
+  issued:
+    year: 2004
+  page: 129-36
+
+- id: terada08
+  type: article-journal
+  author:
+    given: Rei
+    family: Terada
+  title: After the Critique of Lyric
+  container-title: PMLA
+  volume: 123
+  issue: 1
+  issued:
+    month: 1
+    year: 2008
+  page: 195-200
+  source: JSTOR
+  URL: www.jstor.org/stable/25501838
+
+
+
 ...
