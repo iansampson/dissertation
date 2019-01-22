@@ -392,6 +392,7 @@ references:
   author:
     family: "@leslieahenda"
   title: "I’m disappointed that there’s no ankh emoji, but here’s part of Christian Bök’s ‘Eunoia’ translated into emoji."
+  # TODO: Title is uppercased in cite.
   container-title: Twitter
   issued:
     day: 18
@@ -1007,7 +1008,5 @@ Garde"
   page: 195-200
   source: JSTOR
   URL: www.jstor.org/stable/25501838
-
-
 
 ...
