@@ -367,6 +367,19 @@ references:
     year: 1891
 
 
+# MARK: - Calvino
+
+- id: deman84
+  type: book
+  author:
+    given: Paul
+    family: De Man
+  title: The Rhetoric of Romanticism
+  publisher-place: New York
+  publisher: Columbia University Press
+  issued:
+    year: 1984
+
 # MARK: - Bök
 
 - id: adorno91

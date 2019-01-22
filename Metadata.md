@@ -6,6 +6,8 @@ date: "16 January 2019"
 bibliography: "Bibliography.yaml"
 nocite: |
   @perec-penser
+  
+  @deman84
 
   @adorno91
   @ahenda16
