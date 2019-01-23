@@ -66,6 +66,14 @@ blockquote blockquote {
   margin-bottom: 0;
 }
 
+blockquote + blockquote {
+  margin-top: 14.4pt;
+}
+
+.footnotes blockquote {
+  margin-top: 7.2pt
+}
+
 a {
   text-decoration: none;
   color: black;
