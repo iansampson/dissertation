@@ -4,6 +4,17 @@ references:
 
 # MARK: - Perec
 
+- id: agamben17
+  type: book
+  author:
+    given: Giorgio
+    family: Agamben
+  title: The Omnibus *Homo Sacer*
+  publisher: Stanford University Press
+  publisher-place: Stanford
+  issued:
+    year: 2017
+
 - id: barthes89
   type: chapter
   author:
@@ -33,8 +44,8 @@ references:
 - id: chun11
   type: book
   author:
-    given: Wendy
-    family: Wendy Hui Kyong
+    given: Wendy Hui Kyong
+    family: Chun
   title: "Programmed visions: software and memory"
   publisher: MIT Press
   publisher-place: Cambridge
@@ -369,16 +380,302 @@ references:
 
 # MARK: - Calvino
 
+- id: evens15
+  type: book
+  author:
+    given: Aden
+    family: Evens
+  title: Logic of the Digital
+  publisher: Bloomsbury
+  publisher-place: New York
+  issued:
+    year: 2015
+
+- id: scappetone14
+  type: book
+  author:
+    given: Jennifer
+    family: Scappetone
+  title: "Killing the Moonlight: Modernism in Venice"
+  publisher: Columbia University Press
+  publisher-place: New York
+  issued:
+    year: 2014
+
+- id: mitchell94
+  type: chapter
+  author:
+    given: W. J. T.
+    family: Mitchell
+  title: Ekphrasis and the Other
+  page: 149-180
+  container-title : "Picture Theory: Essays on Verbal and Visual Representation"
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    year: 1994
+
+- id: krieger92
+  type: book
+  author:
+    given: Murray
+    family: Krieger
+  title: "Ekphrasis: The Illusion of the Natural Sign"
+  publisher: Johns Hopkins University Press
+  publisher-place: Baltimore
+  issued:
+    year: 1992
+
 - id: deman84
   type: book
   author:
     given: Paul
     family: De Man
   title: The Rhetoric of Romanticism
-  publisher-place: New York
   publisher: Columbia University Press
+  publisher-place: New York
   issued:
     year: 1984
+
+- id: ngai15
+  type: book
+  author:
+    given: Sianne
+    family: Ngai
+  title: "Our Aesthetic Categories: Zany, Cute, Interesting"
+  # title-short: "Categories"
+  # TODO: Make sure this title is properly italicized.
+  publisher: Harvard University Press
+  publisher-place: Cambridge
+  issued:
+    year: 2015
+
+- id: ngai10
+  type: article-journal
+  author:
+    given: Sianne
+    family: Ngai
+  title: "Our Aesthetic Categories"
+  title-short: "Categories"
+  container-title: PMLA
+  page: 948-958
+  volume: 125
+  issue: 4
+  issued:
+    month: 10
+    year: 2010
+
+- id: ngai05
+  type: book
+  author:
+    given: Sianne
+    family: Ngai
+  title: Ugly Feelings
+  publisher: Harvard University Press
+  publisher-place: Harvard
+  issued:
+    year: 2005
+  source: JSTOR
+  DOI: 10.1632/pmla.2010.125.4.948
+
+- id: stiegler02
+  type: chapter
+  author:
+    given: Bernard
+    family: Stiegler
+  title: The Discrete Image
+  title-short: Image
+  page: 145-163
+  container-title: "Echographies of Television: Filmed Interviews"
+  translator:
+    given: Jennifer
+    family: Bajorek
+  publisher: polity
+  publisher-place: Cambridge
+  issued:
+    year: 2002
+
+- id: stiegler94
+  type: book
+  author:
+    given: Bernard
+    family: Stiegler
+  title: "Technics and Time 1: The  Fault of Epimetheus"
+  title-short: Technics
+  translator:
+  - given: Richard
+    family: Beardsworth
+  - given: George
+    family: Collins
+  publisher: Stanford University Press
+  publisher-place: Stanford
+  issued:
+    year: 1998
+
+- id: kittler99
+  type: book
+  author:
+    given: Friedrich
+    family: Kittler
+  title: Grammophone, Film, Typewriter
+  translator:
+  - given: Geoffrey
+    family: Winthrop-Young
+  - given: Michael
+    family: Wutz
+  publisher: Stanford University Press
+  publisher-place: Stanford
+  issued:
+    year: 1999
+
+- id: mclaughlin10
+  type: article-journal
+  title: Really reading Calvino in English translation?
+  container-title: Italianist
+  volume: 30
+  issue: 2
+  author:
+    given: Martin
+    family: McLaughlin
+  page: 203-220
+  date:
+    day: 31
+    month: 12
+    year: 2010
+  source: Taylor & Francis
+  DOI: 10.1080/02614340.2010.11917487
+
+- id: chiesa06
+  type: article-journal
+  author:
+    given: Laura
+    family: Chiesa
+  title: "Italo Calvino and Georges Perec: The Multiple and Contrasting Emotions of Cities and Puzzles"
+  container-title: Romanic Review
+  volume: 97
+  issue: 3
+  page: 402-421
+  issued:
+    month: 5
+    year: 2006
+  source: LION
+  ISSN: 00358118
+
+- id: modena11
+  type: book
+  author:
+    given: Letizia
+    family: Modena
+  title: "Italo Calvino’s Architectures of Lightness: The Utopian Imagination in an Age of Urban Crisis"
+  publisher: Routledge
+  publisher-place: New York
+  issued:
+    year: 2011
+
+- id: calvino-letters
+  type: book
+  author:
+    given: Italo
+    family: Calvino
+  title: "Letters: 1941–1985"
+  title-short: Letters
+  editor:
+    given: Michael
+    family: Wood
+  translator:
+    given: Martin
+    family: McLaughlin
+  # TODO: Translated is incorrectly capitalized in bibliography.
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  issued:
+    year: 2013
+
+- id: calvino-memos
+  type: book
+  author:
+    given: Italo
+    family: Calvino
+  title: Six Memos for the Next Millenium
+  title-short: Memos
+  translator:
+    given: Geoffrey
+    family: Brock
+  publisher: Mariner
+  publisher-place: Boston
+  issued:
+    year: 2016
+
+- id: calvino-lezioni
+  type: book
+  author:
+    given: Italo
+    family: Calvino
+  title: "Lezioni americane: sei proposte per il prossimo millennio"
+  title-short: Lezioni
+  publisher: Mondadori
+  publisher-place: Rome
+  issued:
+    year: 2012
+  language: it-IT
+
+- id: calvino-cities
+  type: book
+  author:
+    given: Italo
+    family: Calvino
+  translator:
+    given: William
+    family: Weaver
+  title: Invisible Cities
+  title-short: Cities
+  publisher: Harcourt
+  publisher-place: New York
+  issued:
+    year: 1974
+
+- id: calvino-citta
+  type: book
+  author:
+    given: Italo
+    family: Calvino
+  title: Le città invisibili
+  publisher: Einaudi
+  publisher-place: Torino
+  issued:
+    year: 1972
+
+- id: coleridge
+  type: chapter
+  author:
+    given: Samuel Taylor
+    family: Coleridge
+  title: Kubla Khan
+  page: 809-810
+  container-title: The Norton Anthology of Poetry
+  editor:
+  - given: Margaret W.
+    family: Ferguson
+  - given: Mary Jo
+    family: Salter
+  - given: Jon
+    family: Stallworthy
+  edition: 5
+  publisher: Norton
+  publisher-place: New York
+  issued:
+    year: 2005
+
+- id: scorporare
+  type: entry-dictionary
+  title: "scorporare"
+  container-title: Un dizionario italiano da un affiliato di Oxford University Press
+  language: it-IT
+  publisher: Mondadori
+  publisher-place: Rome
+  issued:
+    year: 2013
+
 
 # MARK: - Bök
 
@@ -632,6 +929,7 @@ references:
     given: T. S.
     family: Eliot
   title: The Lovesong of J. Alfred Prufrock
+  page: 1340
   container-title: The Norton Anthology of Poetry
   editor:
   - given: Margaret W.
@@ -643,7 +941,6 @@ references:
   edition: 5
   publisher: Norton
   publisher-place: New York
-  page: 1340
   issued:
     year: 2005
 
@@ -818,17 +1115,6 @@ Garde"
   publisher-place: Chicago
   issued:
     year: 2013
-
-- id: ngai05
-  type: book
-  author:
-    given: Sianne
-    family: Ngai
-  title: Ugly Feelings
-  publisher: Harvard University Press
-  publisher-place: Harvard
-  issued:
-    year: 2005
 
 - id: puff14
   type: article-journal
