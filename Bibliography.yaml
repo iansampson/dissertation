@@ -644,6 +644,7 @@ references:
   publisher-place: Torino
   issued:
     year: 1972
+  language: it-IT
 
 - id: coleridge
   type: chapter
@@ -1208,7 +1209,7 @@ Garde"
   author:
     given: Raymond
     family: Queneau
-  title: Œuvres complètes
+  title: Œuvres complètes
   editor:
     given: Claude
     family: Debon
@@ -1252,7 +1253,7 @@ Garde"
   author:
     family: Roubaud
     given: Jacques
-  title: "Deux principes parfois respectés par les travaux oulipiens"
+  title: "Deux principes parfois respectés par les travaux oulipiens"
   container-title: Atlas de littérature potentielle
   publisher: Gallimard
   publisher-place: Paris

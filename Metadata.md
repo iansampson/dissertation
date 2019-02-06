@@ -12,6 +12,8 @@ nocite: |
   @coleridge
   @scorporare
   @calvino-letters
+  @calvino-cities
+  @calvino-citta
 
   @adorno91
   @ahenda16
