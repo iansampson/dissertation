@@ -101,6 +101,17 @@ references:
   issued:
     year: 1973
 
+- id: foucault02
+  type: book
+  author:
+    given: Michel
+    family: Foucault
+  title: "The order of things: an archeology of the human sciences"
+  publisher: Routledge
+  publisher-place: New York
+  issued:
+    year: 2002
+
 - id: folsom07
   type: article-journal
   author:
@@ -376,6 +387,31 @@ references:
   publisher-place: London
   issued:
     year: 1891
+
+- id: virgil-fallon
+  type: book
+  author:
+    family: Virgil
+  title: Georgics
+  translator:
+    given: Peter
+    family: Fallon
+  publisher: Oxford World’s Classics
+  publisher-place: Oxford
+  issued:
+    year: 2009
+
+- id: montfrans99
+  type: book
+  author:
+    given: "Manet van"
+    family: Montfrans
+  title: "Georges Perec: la contrainte du réel"
+  language: fr-FR
+  publisher: Rodopi
+  publisher-place: Amsterdam
+  issued:
+    year: 1999
 
 
 # MARK: - Calvino
@@ -1273,12 +1309,25 @@ Garde"
     family: Matthews
   - given: Alastair
     family: Brotcshie
-  publisher: Atlas Press
-  # TODO: Consider shortening to Atlas.
+  publisher: Atlas
   publisher-place: London
   issued:
     year: 1998
   page: 37-44
+
+- id: oulipo-compendium
+  type: book
+  title: Oulipo Compendium
+  title-short: Compendium
+  editor:
+  - given: Harry
+    family: Matthews
+  - given: Alastair
+    family: Brotcshie
+  publisher: Atlas
+  publisher-place: London
+  issued:
+    year: 1998
 
 - id: starnino04
   type: chapter
