@@ -160,3 +160,20 @@ sup, sub {
 sub {
   top: 0.4em;
 }
+
+
+/* Page numbers */
+
+.tableOfContents, #title-block-header {
+    page: front-matter;
+}
+
+@page front-matter {
+    @bottom {
+        content: normal;
+    }
+}
+
+#chapter1 {
+    counter-reset: page 1
+}
