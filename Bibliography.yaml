@@ -329,6 +329,21 @@ references:
   issued:
     year: 1989
 
+- id: perec-species
+  type: book
+  author:
+    given: Georges
+    family: Perec
+  title: Species of Spaces and Other Pieces
+  title-short: Species
+  translator:
+  - given: John
+    family: Sturrock
+  publisher: Penguin
+  publisher-place: New York
+  issued:
+    year: 2008
+
 - id: perec-penser
   type: book
   author:
@@ -363,17 +378,51 @@ references:
     family: Perec
   title: "Attempt at an inventory of the liquid and solid foodstuffs ingurgitated by me in the course of the year nineteen hundred and seventy-four"
   title-short: Inventory
-  container-title: "Against eexpression: an anthology of conceptual writing"
-  editor:
-  - given: Craig
-    family: Dworkin
-  - given: Kenneth
-    family: Goldsmith
-  publisher: Northwestern University Press
-  publisher-place: Evanstan
+  container-title: Species of Spaces and Other Pieces
+  translator:
+  - given: John
+    family: Sturrock
+  publisher: Penguin
+  publisher-place: New York
   issued:
-    year: 2011
-  page: 477-482
+    year: 2008
+
+- id: perec-granta
+  type: article-magazine
+  author:
+    given: Georges
+    family: Perec
+  title: "Attempt at an inventory of the liquid and solid foodstuffs ingurgitated by me in the course of the year nineteen hundred and seventy-four"
+  container-title: Granta
+  volume: 52
+  issued:
+    year: 1995
+    month: 12
+    day: 5
+  translator:
+  - given: John
+    family: Sturrock
+  page: 87-92
+
+
+# - id: perec-inventory
+#   type: chapter
+#   author:
+#     given: Georges
+#     family: Perec
+#   title: "Attempt at an inventory of the liquid and solid foodstuffs ingurgitated by me in the course of the year nineteen hundred and seventy-four"
+#   title-short: Inventory
+#   container-title: "Against eexpression: an anthology of conceptual writing"
+#   editor:
+#   - given: Craig
+#     family: Dworkin
+#   - given: Kenneth
+#     family: Goldsmith
+#   publisher: Northwestern University Press
+#   publisher-place: Evanstan
+#   issued:
+#     year: 2011
+#   page: 477-482
 
 - id: virgil91
   type: book
@@ -608,6 +657,18 @@ references:
   issued:
     year: 2011
 
+- id: calvino-lezioni
+  type: book
+  author:
+    given: Italo
+    family: Calvino
+  title: "Lezioni americane: sei proposte per il prossimo millennio"
+  language: it-IT
+  publisher: Garzanti
+  issued:
+    year: 1988
+
+
 - id: calvino-letters
   type: book
   author:
@@ -642,18 +703,18 @@ references:
   issued:
     year: 2016
 
-- id: calvino-lezioni
-  type: book
-  author:
-    given: Italo
-    family: Calvino
-  title: "Lezioni americane: sei proposte per il prossimo millennio"
-  title-short: Lezioni
-  publisher: Mondadori
-  publisher-place: Rome
-  issued:
-    year: 2012
-  language: it-IT
+# - id: calvino-lezioni
+#   type: book
+#   author:
+#     given: Italo
+#     family: Calvino
+#   title: "Lezioni americane: sei proposte per il prossimo millennio"
+#   title-short: Lezioni
+#   publisher: Mondadori
+#   publisher-place: Rome
+#   issued:
+#      year: 2012
+#   language: it-IT
 
 - id: calvino-cities
   type: book

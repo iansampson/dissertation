@@ -6,6 +6,13 @@ date: "16 January 2019"
 bibliography: "Bibliography.yaml"
 nocite: |
   @perec-penser
+  @perec-thoughts
+  @perec-life
+  @perec-infraordinaire
+  @perec-inventory
+  @agamben17
+  @perec-granta
+	@perec-species
 
   @deman84
 	@ngai15
