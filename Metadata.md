@@ -13,6 +13,7 @@ nocite: |
   @agamben17
   @perec-granta
 	@perec-species
+	@jack17
 
   @deman84
 	@ngai15
