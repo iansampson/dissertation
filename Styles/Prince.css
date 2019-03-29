@@ -194,3 +194,11 @@ ol {
   padding-top: 0;
   padding-bottom: 0;
 }
+
+.nets {
+  color: hsl(0, 0%, 65%);
+}
+
+.nets strong {
+  color: black;
+}
