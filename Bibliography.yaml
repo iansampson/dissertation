@@ -1534,6 +1534,7 @@ Garde"
     year: 2008
 
 - id: spitzer
+  type: article-journal
   author:
     given: Leo
     family: Spitzer
@@ -1551,6 +1552,7 @@ Garde"
   URL: http://www.jstor.org/stable/27830113
 
 - id: purgatorio
+  type: book
   author:
     given: Dante
     family: Alighieri
@@ -1564,5 +1566,265 @@ Garde"
   issued:
     year: 2003
 
+
+# MARK: - Bervin
+
+- id: johnson05
+  type: book
+  author:
+    given: Ronald
+    family: Johnson
+  title: Radi os
+  publisher: Flood Editions
+  publisher-place: Chicago
+  issued:
+    year: 1981
+
+- id: bervin08
+  type: book
+  author:
+    given: Jen
+    family: Bervin
+  title: Nets
+  publisher: Ugly Duckling Presse
+  publisher-place: Brooklyn
+  issued:
+    year: 2004
+
+- id: dworkin03
+  type: book
+  author:
+    given: Craig
+    family: Dworkin
+  title:  Reading the illegible
+  publisher: Northwestern University Press
+  publisher-place: Evanston
+  issued:
+    year: 2003
+
+- id: ramazani94
+  type: book
+  author:
+    given: Jahan
+    family: Ramazani
+  title: "Poetry and Mourning: The Modern Elegy from Hardy to Heaney"
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    year: 1994
+
+- id: burrow-shakespeare
+  type: book
+  author:
+    given: William
+    family: Shakespeare
+  editor:
+    given: Colin
+    family: Burrow
+  title: The Complete Sonnets and Poems
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  issued:
+    year: 2002
+
+- id: shaw94
+  type: book
+  author:
+    given: W. David
+    family: Shaw
+  title: "Elegy & Paradox: Testing the Conventions"
+  publisher: Johns Hopkins University Press
+  publisher-place: Baltimore
+  issued:
+    year: 1994
+
+- id: mccaffery02
+  type: article-journal
+  author:
+    given: Steve
+    family: McCaffery
+  title: "Corrosive Poetics: The Relief Composition of Ronald Johnson’s *Radi os*"
+  container-title: "Pretexts: literary and cultural studies"
+  volume: 11
+  issue: 2
+  issued:
+    year: 2002
+  page: 121-132
+  doi: 10.1080/1015549022000040601
+  source: Taylor & Francis
+
+- id: macdonald09
+  type: article-magazine
+  author:
+    given: Travis
+    family: MacDonald
+  title: "A Brief History of Erasure Poetics"
+  container-title: Jacket
+  issue: 38
+  issued:
+    year: 2009
+  url: "http://jacketmagazine.com/38/macdonald-erasure.shtml"
+
+- id: johnson96
+  type: interview
+  title: An Interview with Ronald Johnson
+  author:
+  - given: Ronald
+    family: Johnson
+  - given: Peter
+    family: O’Leary
+  container-title: Chicago Review
+  volume: 42
+  issue: 1
+  issued:
+    year: 1996
+  page: 32-53
+  url: https://www.jstor.org/stable/25306022
+  source: JSTOR
+
+- id: bervin-asymptote
+  type: interview
+  title: An interview with Jen Bervin
+  author:
+  - given: Jen
+    family: Bervin
+  - given: Henry Ace
+    family: Knight
+  container-title: Asymptote
+  issued:
+    year: 2017
+  url: "https://www.asymptotejournal.com/interview/an-interview-with-jen-bervin"
+
+- id: notes-on-conceptualisms
+  type: book
+  title: Notes on Conceptualisms
+  author:
+  - given: Vanessa
+    family: Place
+  - given: Robert
+    family: Fitterman
+  publisher: Ugly Duckling Presse
+  publisher-place: Brooklyn
+  issued:
+    year: 2010
+
+- id: genette-palimpsests
+  type: book
+  title: "Palimpsests: literature in the second degree"
+  author:
+    given: Gérard
+    family: Genette
+  translator:
+  - given: Channa
+    family: Newman
+  - given: Claude
+    family: Doubinsky
+  issued:
+    year: 1997
+  publisher: University of Nebraska Press
+  publisher-place: Lincoln
+
+- id: stallybrass04
+  type: article-journal
+  title: "Hamlet's Tables and the Technologies of Writing in Renaissance England"
+  author:
+  - given: Peter
+    family: Stallybrass
+  - given: Roger
+    family: Chartier
+  - given: John Franklin
+    family: Mowery
+  - given: Heather
+    family: Wolfe
+  container-title: Shakespeare Quarterly
+  volume: 4
+  issue: 4
+  issued:
+    # season: winter
+    year: 2004
+  page: 379-419
+  doi: "https://doi.org/10.1353/shq.2005.0035"
+  source: Project Muse
+
+- id: chun08
+  type: article-journal
+  title: The Enduring Ephemeral, or the Future Is a Memory
+  author:
+    given: Wendy Hui Kyong
+    family: Chun
+  container-title: Critical Inquiry
+  volume: 35
+  issue: 1
+  page: 148-171
+  issued:
+    # season: autumn
+    year: 2008
+  url: https://www.jstor.org/stable/10.1086/595632
+  doi: 10.1086/595632
+  source: JSTOR
+
+- id: goldsmith-the-day
+  type: article-magazine
+  title: Two Poems from “The Day”
+  author:
+    given: Kenneth
+    family: Goldsmith
+  container-title: Poetry
+  issued:
+    month: 07 #July/August
+    year: 2009
+  url: "https://www.poetryfoundation.org/poetrymagazine/poems/52692/two-poems-from-the-day"
+
+- id: harmon81
+  type: article-journal
+  author:
+    given: William
+    family: Harmon
+  title: The Poetry of a Journal at the End of an Arbor in a Watch
+  container-title: Parnassus
+  volume: 9
+  issue: 1
+  issued:
+    year: 1981
+  page: 217-32
+
+- id: essick80
+  author:
+    given: Robert N.
+    family: Essick
+  title: "William Blake: Printmaker"
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  issued:
+    year: 1980
+
+- id: blake85
+  author:
+    given: William
+    family: Blake
+  title: The Marriage of Heaven and Hell
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  issued:
+    year: 1985
+
+- id: norton-shakespeare
+  author:
+    given: William
+    family: Shakespeare
+  editor:
+  - given: Stephen
+    family: Greenblatt
+  - given: Walter
+    family: Cohen
+  - given: Jean E.
+    family: Howard
+  - given: Katherine Eisaman
+    family: Maus
+  title: The Norton Shakespeare
+  publisher: Norton
+  publisher-place: New York
+  issued:
+    year: 1997
 
 ...

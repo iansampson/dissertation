@@ -68,5 +68,26 @@ nocite: |
   @terada08
   
   @bergvall-via
+  
+  @johnson05
+  @bervin08
+  @dworkin03
+  @ramazani94
+  @burrow-shakespeare
+  @shaw94
+	@mccaffery02
+	@macdonald09
+	@johnson96
+	@bervin-asymptote
+	@notes-on-conceptualisms
+	@genette-palimpsests
+	@stallybrass04
+	@chun08
+	@goldsmith-the-day
+	@harmon81
+	@essick80
+	@blake85
+	@norton-shakespeare
+	
 
 ---
