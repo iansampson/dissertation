@@ -1789,6 +1789,7 @@ Garde"
   page: 217-32
 
 - id: essick80
+  type: book
   author:
     given: Robert N.
     family: Essick
@@ -1799,6 +1800,7 @@ Garde"
     year: 1980
 
 - id: blake85
+  type: book
   author:
     given: William
     family: Blake
@@ -1809,6 +1811,7 @@ Garde"
     year: 1985
 
 - id: norton-shakespeare
+  type: book
   author:
     given: William
     family: Shakespeare
@@ -1826,5 +1829,53 @@ Garde"
   publisher-place: New York
   issued:
     year: 1997
+
+- id: yates11
+  type: chapter
+  author:
+    given: Julian
+    family: Yates
+  title: "More Life: Shakespeare’s Sonnet Machines"
+  container-title: "ShakesQueer: A Queer Companion to the Complete Works of Shakespeare"
+  editor:
+    given: Madhavi
+    family: Menon
+  publisher: Duke University Press
+  publisher-place: Durham
+  issued:
+    year: 2011
+  page: 323-42
+
+- id: broqua10
+  type: article-journal
+  author:
+    given: Vincent
+    family: Broqua
+  title: "Living-with Shakespeare?: Three American experimental poets’ compositions with Shakespeare’s sonnet 130"
+  container-title: Transatlantica
+  issue: 1
+  issued:
+    year: 2010
+  source: Open Edition Journals
+  issn: 1765-2766
+  url: http://transatlantica.revues.org/4815
+
+- id: colebrook11
+  type: chapter
+  author:
+    given: Claire
+    family: Colebrook
+  title: Queer Aesthetics
+  editor:
+  - given: E. L.
+    family: McCallum
+  - given: Mikko
+    family: Tuhkanen
+  container-title: Queer Times, Queer Becomings
+  issued:
+    year: 2011
+  publisher: SUNY Press
+  publisher-place: Albany
+  page: 25-46
 
 ...
