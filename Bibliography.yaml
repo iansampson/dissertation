@@ -1878,4 +1878,18 @@ Garde"
   publisher-place: Albany
   page: 25-46
 
+- id: cooney14
+  type: article-journal
+  author:
+    given: Brian C.
+    family: Cooney
+  title: "Nothing is left out: Kenneth Goldsmith’s *Sports* and Erasure Poetry"
+  container-title: Journal of Modern Literature
+  volume: 37
+  issue: 4
+  issued:
+    year: 2014
+  page: 16-33
+  source: Project Muse
+
 ...
