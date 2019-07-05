@@ -2,6 +2,81 @@
 references:
 
 
+# MARK: - Introduction
+
+- id: bens80
+  type: book
+  author:
+    given: Jacques
+    family: Bens
+  title: "Oulipo 1960-1963"
+  publisher-place: Paris
+  publisher: Bourgois
+  issued:
+    year: 1980
+
+- id: motte06
+  type: article-journal
+  author:
+    given: Warren
+    family: Motte
+  title: Raymond Queneau and the Early Oulipo
+  container-title: French Forum
+  volume: 31
+  issue: 1
+  issued:
+    year: 2006
+  page: 41-54
+  url: http://www.jstor.org/stable/40552590
+  source: JSTOR
+
+- id: becker12
+  type: book
+  title: "Many subtle channels: in praise of potential literature"
+  author:
+    given: Daniel
+    family: Levin Becker
+  publisher: Harvard University Press
+  publisher-place: Harvard
+  issued:
+    year: 2012
+
+- id: clover14
+  type: article-journal
+  author:
+    given: Joshua
+    family: Clover
+  container-title: Mute
+  title: The technical composition of conceptualism
+  issued:
+    day: 2
+    month: 4
+    year: 2014
+  url: "http://www.metamute.org/editorial/articles/technical-composition-conceptualism"
+
+- id: noulipo-intro
+  type: chapter
+  author:
+  - given: Christine
+    family: Wertheim
+  - given: Matias
+    family: Viegener
+  title: "& and"
+  page: 1-13
+  container-title: The *n*oulipoian Analects
+  editor:
+  - given: Christine
+    family: Wertheim
+  - given: Matias
+    family:  Viegener
+  publisher: Les Figues
+  publisher-place: Los Angeles
+  ISBN: 978-1-934254-00-4
+  issued:
+    year: 2007
+  language: fr
+
+
 # MARK: - Perec
 
 - id: agamben17
@@ -1419,6 +1494,7 @@ Garde"
   source: JSTOR
   URL: www.jstor.org/stable/25501838
 
+
 # MARK: - Bergvall
 
 - id: bergvall-constraint
@@ -1440,6 +1516,7 @@ Garde"
   ISBN: 978-1-934254-00-4
   issued:
     year: 2007
+  language: fr
 
 - id: bergvall-infraordinary
   type: chapter
@@ -1460,6 +1537,7 @@ Garde"
   ISBN: 978-1-934254-00-4
   issued:
     year: 2007
+  language: fr
 
 - id: bergvall-via
   type: chapter

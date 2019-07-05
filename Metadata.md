@@ -5,6 +5,13 @@ author: "Ian Sampson"
 date: "16 January 2019"
 bibliography: "Bibliography.yaml"
 nocite: |
+  @bens80
+  @motte06
+  @becker12
+  @roubaud98
+  @clover14
+  @noulipo-intro
+
   @perec-penser
   @perec-thoughts
   @perec-life
@@ -66,9 +73,9 @@ nocite: |
   @roubaud98
   @starnino04
   @terada08
-  
+
   @bergvall-via
-  
+
   @johnson05
   @bervin08
   @dworkin03
