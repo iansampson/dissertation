@@ -11,7 +11,25 @@ nocite: |
   @roubaud98
   @clover14
   @noulipo-intro
+  @lionnais-second-manifesto
+  @motte-intro
+  @oed-potential
+  @agamben-bartleby
+  @matthews-potential
+  @queneau-poèmes
+  @queneau-poèmes-translation
+  @perec-entretiens
+  @arnaud-primer
+  @poucel-explore
+  @calvino-machine
+  @six-selections
+  @aarseth97
+  @ramsay11
+  @reed13
+  @dworkin-echo
+  @pound15
 
+  @oed-enumeration
   @perec-penser
   @perec-thoughts
   @perec-life

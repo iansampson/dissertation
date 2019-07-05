@@ -76,8 +76,290 @@ references:
     year: 2007
   language: fr
 
+- id: lionnais-second-manifesto
+  type: chapter
+  author:
+    given: François
+    family: le Lionnais
+  title: Second Manifesto
+  container-title: "Oulipo: A Primer of Potential Literature"
+  editor:
+    given: Warren
+    family: Motte
+  publisher: University of Nebraska Press
+  publisher-place: Lincoln
+  issued:
+    year: 1986
+  page: 29-31
+
+- id: motte-intro
+  type: chapter
+  author:
+    given: Warren
+    family: Motte
+  title: Introduction
+  page: 1-22
+  container-title: "Oulipo: A Primer of Potential Literature"
+  editor:
+    given: Warren
+    family: Motte
+  publisher: University of Nebraska Press
+  publisher-place: Lincoln
+  issued:
+    year: 1986
+
+- id: oed-potential
+  type: entry-dictionary
+  title: "potential, *adj.* and *n.*"
+  container-title: OED Online
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  issued:
+    month: 6
+    year: 2019
+  url: www.oed.com/view/Entry/148805
+  accessed:
+    day: 5
+    month: 7
+    year: 2019
+  language: fr
+  # A hack to prevent automatic capitalization.
+
+- id: agamben-bartleby
+  type: chapter
+  title: "Bartleby, or On Contingency"
+  container-title: Potentialities
+  author:
+    given: Giorgio
+    family: Agamben
+  translator:
+    given: Daniel
+    family: Heller-Roazen
+  publisher: Stanford University Press
+  publisher-place: Stanford
+  issued:
+    year: 1999
+  page: 243-274
+
+- id: matthews-potential
+  type: entry-encyclopedia
+  title: Potential
+  author:
+    given: Harry
+    family: Matthews
+  page: 213
+  container-title: Oulipo Compendium
+  editor:
+  - given: Harry
+    family: Matthews
+  - given: Alastair
+    family: Brotchie
+  publisher: Atlas Press
+  publisher-place: London
+  issued:
+    year: 2005
+
+- id: queneau-poèmes
+  type: chapter
+  title:  Cent mille milliards de poèmes
+  author:
+    given: Raymond
+    family: Queneau
+  editor:
+    given: Claude
+    family: Debon
+  container-title: Œuvres complètes
+  volume: 1
+  publisher: Gallimard
+  publisher-place: Paris
+  language: fr
+  issued:
+    year: 1989
+  page: 331–47
+
+- id: queneau-poèmes-translation
+  type: chapter
+  title: A hundred thousand billion poems
+  author:
+    given: Raymond
+    family: Queneau
+  translator:
+    given: Stanley
+    family: Chapman
+  page: 14-34
+  container-title: Oulipo Compendium
+  editor:
+  - given: Harry
+    family: Matthews
+  - given: Alastair
+    family: Brotchie
+  publisher: Atlas Press
+  publisher-place: London
+  issued:
+    year: 2005
+
+- id: perec-entretiens
+  type: book
+  title: Entretiens et conférences
+  author:
+    given: Georges
+    family: Perec
+  editor:
+  - given: Dominique
+    family: Bertelli
+  - given: Mireille
+    family: Ribière
+  volume: 1
+  publisher-place: Nantes
+  publisher: Joseph K.
+  language: fr
+  issued:
+    year: 2003
+
+- id: arnaud-primer
+  type: chapter
+  title: Foreward
+  author:
+    given: Noël
+    family: Arnaud
+  page: xi-xv
+  container-title: "Oulipo: A Primer of Potential Literature"
+  editor:
+    given: Warren
+    family: Motte
+  publisher: University of Nebraska Press
+  publisher-place: Lincoln
+  issued:
+    year: 1986
+
+- id: poucel-explore
+  type: article-Journal
+  title: "Oulipo: Explore, Expose, X-Po"
+  author:
+    given: Jean-Jacques
+    family: Poucel
+  container-title: Drunken Boat
+  issue: 8
+  issn: 1537-2812
+  url: https://www.drunkenboat.com/db8/oulipo/feature-oulipo/curator/poucel/intro.html
+  issued:
+    year: 2006
+
+- id: calvino-machine
+  type: book
+  title: Literature machine
+  author:
+    given: Italo
+    family: Calvino
+  translator:
+    given: Patrick
+    family: Creagh
+  publisher: Secker and Warburg
+  issued:
+    year: 1987
+  publisher-place: London
+
+- id: six-selections
+  type: chapter
+  title: Six selections by the Oulipo
+  editor:
+  - given: Nick
+    family: Montfort
+  - given: Noah
+    family: Wardrip-Fruin
+  container-title: The New Media Reader
+  page: 147-190
+  isbn: 9780262232272
+  publisher: MIT Press
+  publisher-place: Cambridge
+  issued:
+    month: 2
+    year: 2003
+
+- id: aarseth97
+  type: book
+  title: "Cybertext: perspectives on ergodic literature"
+  author:
+    given: Espen J.
+    family: Aarseth
+  publisher: Johns Hopkins University Press
+  publisher-place: Baltimore
+  issued:
+    year: 1997
+
+- id: ramsay11
+  type: book
+  title: "Reading machines: toward an algorithmic criticism"
+  author:
+    given: Stephen
+    family: Ramsay
+  publisher: University of Illinois Press
+  publisher-place: Urbana
+  issued:
+    year: 2011
+
+- id: reed13
+  type: book
+  title: "Nobody’s business: twenty-first century avant-garde poetics"
+  author:
+    given: Brian
+    family: Reed
+  publisher-place: Ithaca
+  publisher: Cornell University Press
+  issued:
+    year: 2013
+
+- id: dworkin-echo
+  type: chapter
+  author:
+    given: Craig
+    family: Dworkin
+  title: The Fate of Echo
+  page: xxiii-liv
+  container-title: "Against expression: an anthology of conceptual writing"
+  editor:
+  - given: Craig
+    family: Dworkin
+  - given: Kenneth
+    family: Goldsmith
+  publisher: Northwestern University Press
+  publisher-place: Evanston
+  issued:
+    year: 2011
+
+- id: pound15
+  type: article-journal
+  author:
+    given: Scott
+    family: Pound
+  title: Kenneth Goldsmith and the Poetics of Information
+  container-title: PMLA
+  volume: 130
+  issue: 2
+  issued:
+    month: 3
+    year: 2015
+  page: 315-330
+  
 
 # MARK: - Perec
+
+- id: oed-enumeration
+  type: entry-dictionary
+  title: "enumeration, *n.*"
+  container-title: OED Online
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  issued:
+    month: 7
+    year: 2019
+  url: www.oed.com/view/Entry/63035
+  accessed:
+    day: 5
+    month: 6
+    year: 2019
+  language: fr
+  # A hack to prevent automatic capitalization.
 
 - id: agamben17
   type: book
@@ -941,6 +1223,7 @@ references:
     given: Marcel
     family: Bénabou
   title: Rule and Constraint
+  page: 40-47
   container-title: "Oulipo: A Primer of Potential Literature"
   editor:
     given: Warren
@@ -949,7 +1232,6 @@ references:
   publisher-place: Lincoln
   issued:
     year: 1986
-  page: 40-47
 
 - id: bök01
   type: book
