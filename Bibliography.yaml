@@ -4,6 +4,72 @@ references:
 
 # MARK: - Introduction
 
+- id: stiegler16
+  type: book
+  author:
+    given: Bernard
+    family: Stiegler
+  title: Automatic Society
+  publisher: Polity
+  publisher-place: Cambridge
+  issued:
+    year: 2016
+
+- id: moretti05
+  type: book
+  author:
+    given: Franco
+    family: Moretti
+  title: "Graphs, maps, trees: abstract models for a literary history"
+  publisher: Verso
+  publisher-place: New York
+  issued:
+    year: 2005
+
+- id: moretti13
+  type: book
+  author:
+    given: Franco
+    family: Moretti
+  title: Distant reading
+  publisher: Verso
+  publisher-place: New York
+  issued:
+    year: 2013
+
+- id: ardam14
+  type: article-journal
+  title: "The ABCs of conceptual writing"
+  author:
+    given: Jacquelyn
+    family: Ardam
+  container-title: Comparative Literature Studies
+  volume: 51
+  issue: 1
+  pp: 132-158
+  issued:
+    year: 2014
+  DOI: "10.1353/cls.2014.0002"
+  source: Project Muse
+
+- id: dworkin18
+  type: article-journal
+  author:
+    given: Craig
+    family: Dworkin
+  title: Poetry in the Age of Consumer-Generated Content
+  container-title: Critical Inquiry
+  issued:
+    year: 2018
+    month: 6
+    day: 1
+  pag: 674-705
+  volume: 44
+  issue: 4
+  source: University of Chicago Press Journals
+  url: "https://doi.org/10.1086/698173"
+  DOI: "10.1086/698173"
+
 - id: bens80
   type: book
   author:
@@ -340,7 +406,7 @@ references:
     month: 3
     year: 2015
   page: 315-330
-  
+
 
 # MARK: - Perec
 
@@ -1355,7 +1421,7 @@ references:
 - id: dworkin07
   type: article-journal
   author:
-    given: Craig Douglas
+    given: Craig
     family: Dworkin
   title: The Imaginary Solution
   container-title: Contemporary Literature

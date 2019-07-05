@@ -28,6 +28,11 @@ nocite: |
   @reed13
   @dworkin-echo
   @pound15
+  @dworkin18
+  @ardam14
+  @moretti05
+  @moretti13
+  @stiegler16
 
   @oed-enumeration
   @perec-penser
