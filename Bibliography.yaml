@@ -246,6 +246,7 @@ references:
 - id: queneau-poèmes-translation
   type: chapter
   title: A hundred thousand billion poems
+  title-short: Poems
   author:
     given: Raymond
     family: Queneau
