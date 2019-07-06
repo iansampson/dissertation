@@ -1,0 +1,461 @@
+that are thoroughly enmeshed with digital logic: Perec’s long-standing  with the form of the list (and its literary predecessors: the epic catalogue, 
+
+
+
+the logic of the database and the abundance of information
+
+
+
+
+the capaciousness of information
+
+
+
+(often borrowed from mathematics) that encapsulate 
+
+
+the desire to quantify the world:
+
+
+
+borrow a variety of forms and figures from fields that are nascent 
+
+
+
+but they borrow a variety of forms and figures 
+
+Perec’s use of lists
+Calvino’s use of *bits* via the proxy of the 
+
+
+but their late writings explore forms and figures that are thoroughly intertwined with the logic of the database:
+
+
+
+
+are endemic to the digital revolution – cybernetics, information theory, algebra, and set theory, to name only a few. 
+
+
+
+but their late works are suffused with figures and forms borrowed from information theory, cybernetics, 
+
+
+
+I will have something to say, in my chapters, about the difference between merely referential 
+
+
+
+
+
+Although Perec and Calvino rarely *refer* to computers in their literary works – the latter’s essays and lectures are more explicit on this front, as I will show – their 
+
+
+
+
+program, 
+
+*quantity*
+
+
+
+
+
+computers play in their work
+
+
+
+
+
+Perec and Calvino 
+
+
+
+efficiency
+capitalism
+productivity
+progress
+instrumentalizing it
+
+
+I choose Perec and Calvino because their work does not explicitly reference computers; it’s not made on computers; etc. (That’s it’s own paragraph.)
+
+
+
+
+Perec and Calvino lay the groundwork for later writers 
+
+
+
+banalize this concept by actualizing it
+. Even more than the contemporary poets I read in my later chapters, the work of Perec and Calvino 
+
+shows a world in the digital is both terrifying and charged with potential, 
+
+
+Each chapter explores a different form of constraint: Perec’s lists, Calvino’s ekphrases 
+
+
+
+In this way, my dissertation aims to avoid two extremes of work on contemporary poetics: 
+
+
+Often these are also the moments when the body, which the THING tries to suppress,
+
+
+
+
+What brings these five authors together, over two decades apart,
+
+
+
+Often these are also moments 
+
+
+
+
+
+
+
+
+
+aims to weave a new path between two extremes of contemporary poetry criticism: 
+
+
+departs from other studies of contemporary poetry that seek to respond to the threat of literature’s obsolescence in the digital era either by embracing, with an almost utopian fervor, the new possibilities offered of hypertext and e-poetry 
+
+
+or, in the obverse case of print-based poetry, the way that poets and critics alike often see little hope for poetry to resist, or even distinguish itself from, the endless torrent of banal information that daily assails our senses.
+
+
+
+
+
+
+
+techno-capitalist modernity 
+
+
+assails our readerly senses.
+
+
+
+
+resist or dismantle the monumental edifice of techno-capitalist culture.
+
+
+
+
+ underplay poetry’s power to resist the 
+
+
+see poetry’s only role as a mirror that reflects the monumental and unassailable edifice of techno-capitalist 
+
+
+that we are offered a false choice between
+
+
+
+
+
+
+of impasse that surrounds debates 
+
+
+
+among print-based 
+
+
+
+anxieties
+
+
+
+
+
+<!---making it more digital-->
+
+<!--and the digital humanities-->
+
+
+a common discourse
+around mainstream poetry
+that seeks to overcome
+its 
+
+its obsolescence
+
+
+
+
+
+contemporary poetry in the age of new media that aim to make the digital complicit
+
+
+
+
+ suggest that the literary overcome its anxieties around digital obsolescence by making itself a mere symptom of the digital) 
+
+
+
+
+
+to copy them, to reduce the literary to a mere symptom of the digital) 
+
+
+
+
+
+My argument is built upon an analogy between algorithms
+
+
+
+
+Throughout this dissertation, I use the term potential literature (uncapitalized, unabbreviated) to encompass a wide variety of constraint-based texts written in different countries, different languages (French, Italian, and English), and different decades – from the early 1970s to today. But the term also has a more specific point of origin, one that casts its long shadow over all the works I discuss: the Parisian restaurant 
+
+
+
+The Ouvroir de Literature 
+
+the name of an eclectic group (not quite a coterie, much less a movement) founded by François le Lionnais and Raymond Queneau at Cerisy-la-Salle in 1960.
+
+
+
+Cerisy-la-Salle, a Parisian restaurant, 
+
+a Parisian restaurant – Cerisy-la-Salle, to be precise – in November of 1960.
+
+on the 24th of November 1960.
+
+Although I approach this genre as an international phenomenon (with an eye to its rich afterlife among contemporary anglophone poets),
+
+
+
+<!---Putting this data in the service of a biopolitical regime that strives at every turn to measure, optimize, and thereby govern living populations the aggregate bodies. Calvino. Prose and anticombinatorics.-->
+
+(How can a wino count how many bottles he has drunk, if he is already drunk on wine?) For Perec – as for all of the authors I read here – the profound sense of contingency that inevitably disrupts the logic of the digital often originates with the body: 
+
+
+
+
+
+
+
+
+
+
+Why is so crucial that humans do this work?
+
+(which often take the body as their subject, as with Perec’s dietary catalogue or the monovocalic feasts that adorn each chapter of *Eunoia*) 
+
+
+
+
+and revealing, in the process, the 
+
+
+
+
+
+
+to mechanize the process of composition, to subject oneself to a series of procedures and routines, revealing in the process the degree to which (alphabetic) writing is already artificial, already prosthetic, in its desire to extend the range of human potential.
+
+
+
+
+
+
+and to reveal the degree to which writing is already mechanistic
+
+to subject oneself to a series of procedures and routines, which the reader must reverse-engineer in turn, becoming a 
+
+
+
+
+
+(*The Literature Machine*, incidentally, is the title of an essay collection by Calvino) and to 
+
+
+pass that mechanism along to the reader, who must reverse-engineer it 
+
+
+
+
+
+Rather than simply imitating the logic of new media, however, potential literature also shows how it fails,
+
+
+
+
+ betray a playfulness, an indeterminacy – 
+
+
+
+
+
+
+ – not to imitate them (in the manner of a symptom) but to reveal, by way of this formal analogy, those rare moments when programs fail, when the rigor of constraints and the rigor of algorithms succumb to contingency or error. This is true even of my chapters on Perec and Calvino, whose late writings are thoroughly enmeshed in what Eve Sedgewick calls “the cybernetic fold”: the brief window of time between the emergence of the digital as a fruitful concept in the postwar era <!--– a new way of exploring the perennial entanglement of technics and embodiment, humans and machines –-->and the invention of powerful computers designed to realize (and thereby exhaust) this potential by putting the digital in the service of routine calculation. Although Perec and Calvino rarely *refer* to computers in their literary works – the latter’s essays and lectures are more explicit on this front, dreaming of a world reduced to “weightless bits” – they explore forms and figures (often borrowed from mathematics) that serve to quantify phenomena and render the sensible world precisely calculable: Perec’s enumeration of his annual diet, for example, framed as a sort of Rabelaisian catalogue, insists upon tabulating the exact quantity of each foodstuff he ingests – a practice that anticipates the modern use of biosensors (on the FitBit or Apple Watch, for example) to log a user’s every heartbeat or footfall – even as the playfulness of his account undermines its veracity at every turn. (How can a wino count how many bottles he has drunk, if he is already drunk on wine?) 
+
+
+
+
+What animates the diverse archive of potential literature 
+
+
+
+What happens to contingency, indeterminacy, play – 
+
+
+How can literature endured in a quantified world? 
+
+
+
+ (and the human world they constitute)  
+
+
+– literary or aesthetic values that are also (for Schiller, at least) constitutive of the human – when 
+
+
+
+
+
+
+
+
+
+If alphabetic writing 
+Constraints seem less recondite when read alongside the 
+How can literature endured in a quantified world? 
+
+
+
+
+
+How does the use of programmatic constraints allow these diverse authors to engage, in the literary realm, with the algorithmic logic and binary structures at the heart of new media? Does potential literature offer anything 
+
+
+
+
+
+
+These writers forge a powerful analogy between digital algorithms and literary constraints in an epoch when intelligent machines – from [IBM]{.smallcaps} mainframes in the 1970s to today’s pocket-sized iPhones – seem poised to automate every facet of human endeavor. 
+
+[IBM]{.smallcaps} mainframes 
+
+that obey, in Calvino’s words, the order of “weightless bits” to the pocket-sized iPhones and 
+
+
+
+
+
+
+, forging a powerful analogy between digital algorithms and literary constraints in an epoch when intelligent machines – from [IBM]{.smallcaps} mainframes in the 1970s to today’s pocket-sized iPhones – seem poised to automate every facet of human endeavor. 
+
+
+
+Reading this constellation of 
+
+
+
+
+common trajectory for new media in the second half of the twentieth century
+
+
+
+
+trajectory for potential literature in the second half of the twentieth century, one that is thoroughly entangled with 
+
+
+How does the use of programmatic constraints allow these diverse authors to engage, in the literary realm, with the algorithmic logic and binary structures at the heart of new media? Does potential literature offer anything 
+
+
+
+
+ and tracing the “many subtle channels” (to borrow a phrase from François le Lionnais) that potential literature
+
+
+
+
+ fortunes of potential literature at the end of the twentieth. 
+
+
+
+How does the use of programmatic constraints allow these diverse authors to engage, in the literary realm, with the algorithmic logic and binary structures at the heart of new media? Does potential literature offer anything 
+
+
+
+ – not to imitate them (in the manner of a symptom) but to reveal, by way of this formal analogy, those rare moments when programs fail, when the rigor of constraints and the rigor of algorithms succumb to contingency or error. This is true even of my chapters on Perec and Calvino, whose late writings are thoroughly enmeshed in what Eve Sedgewick calls “the cybernetic fold”: the brief window of time between the emergence of the digital as a fruitful concept in the postwar era <!--– a new way of exploring the perennial entanglement of technics and embodiment, humans and machines –-->and the invention of powerful computers designed to realize (and thereby exhaust) this potential by putting the digital in the service of routine calculation. Although Perec and Calvino rarely *refer* to computers in their literary works – the latter’s essays and lectures are more explicit on this front, dreaming of a world reduced to “weightless bits” – they explore forms and figures (often borrowed from mathematics) that serve to quantify phenomena and render the sensible world precisely calculable: Perec’s enumeration of his annual diet, for example, framed as a sort of Rabelaisian catalogue, insists upon tabulating the exact quantity of each foodstuff he ingests – a practice that anticipates the modern use of biosensors (on the FitBit or Apple Watch, for example) to log a user’s every heartbeat or footfall – even as the playfulness of his account undermines its veracity at every turn. (How can a wino count how many bottles he has drunk, if he is already drunk on wine?) For Perec – as for all of the authors I read here – the profound sense of contingency that inevitably disrupts the logic of the digital often originates with the body: 
+
+
+
+
+
+
+
+in a world invisibly governed by numbers,
+
+
+
+strive to render the sensible calculable
+
+in a world invisibly governed by numbers ++and formulas++– to give calculable media a sensible texture – to meticulously describe a chessboard, for instance – is itself a political act that estranges the forms of ++digital sovereignty++ that have ++become invisible through familarity++.  
+
+
+
+these writers strive to make 
+
+
+
+to give calculable media a sensible texture – to 
+
+
+open space for play
+
+reveal the contingency (and playfulness)
+(to find new ways to inhabit these media ...
+new ways to individuate
+
+
+
+
+make a list, set, or grid the object of literary description 
+
+
+
+
+if the new media threaten to reduce our 
+
+
+in a world invisibly governed by numbers ++and formulas++– to give calculable media a sensible texture – to meticulously describe a chessboard, for instance – is itself a political act that estranges the forms of ++digital sovereignty++ that have ++become invisible through familarity++. 
+
+
+
+to inscribe our lives within the confines of logical structures, why not make those structures the content 
+
+
+
+
+
+
+structures inherent in new media threaten to quantify our lives – 
+
+
+
+grids, lists, sets,, 
+
+
+
+
+if our lives are to obey abstract structures, why not make those (or other comparably inflexible) structures the 
+
+
+
+
+<!--For Perec – as for all of the authors I read here – the profound sense of contingency that inevitably disrupts the logic of the digital often originates with the body: -->
+
+<!--the () of taste and the other proximal senses in this example are hardly incidental: the ekphrases of Kublai and Polo, the belches of Ubu, the sense of bewilderment inherent in (verbal? oracular) repetition, the sense of loss imprinted in faded paper,-->
+
+<!--Reading Perec through the lens of new media theory allows me to situate some of his more marginal texts within a broader prehistory of database poetics – responding to critics like Folsom and Hayles ...-->
+
+<!--Use a couple words here. In this way my dissertation challenges a common misconception about potential literature – a critical oversight – at the same time that it shows new ways of resisting the “sovereignty of data.”--> <!--See for example the introduction to the *Noulipoean Analects*. Joshua Clover. Re: critiques of constraint.--> 
+
+<!---How are constraints like algorithms?-->
