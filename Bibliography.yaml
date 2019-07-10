@@ -4,6 +4,36 @@ references:
 
 # MARK: - Introduction
 
+- id: tapeworm-foundry
+  type: book
+  title: "The tapeworm foundry: andor the dangerous prevalence of the imagination"
+  author:
+    given: Darren
+    family: Wershler-Henry
+  publisher: ubu Editions
+  issued:
+    year: 2002
+  URL: "http://www.ubu.com/ubu/pdf/wershler_tapeworm.pdf"
+
+
+- id: mcsweeneys
+  type: webpage
+  title: "All that is evident is suspect: Readings from the Oulipo, 1963-2018"
+  container-title: The McSweeney’s Store
+  URL: "https://store.mcsweeneys.net/products/all-that-is-evident-is-suspect"
+
+
+- id: brooks-urn
+  type: book
+  title: "The well-wrought urn: studies in the structure of poetry"
+  author:
+    given: Cleanth
+    family: Brooks
+  publisher: Harcourt
+  publisher-place: New York
+  issued:
+    year: 1975
+
 - id: stiegler16
   type: book
   author:
@@ -67,7 +97,7 @@ references:
   volume: 44
   issue: 4
   source: University of Chicago Press Journals
-  url: "https://doi.org/10.1086/698173"
+  URL: "https://doi.org/10.1086/698173"
   DOI: "10.1086/698173"
 
 - id: bens80
@@ -93,7 +123,7 @@ references:
   issued:
     year: 2006
   page: 41-54
-  url: http://www.jstor.org/stable/40552590
+  URL: http://www.jstor.org/stable/40552590
   source: JSTOR
 
 - id: becker12
@@ -118,7 +148,7 @@ references:
     day: 2
     month: 4
     year: 2014
-  url: "http://www.metamute.org/editorial/articles/technical-composition-conceptualism"
+  URL: "http://www.metamute.org/editorial/articles/technical-composition-conceptualism"
 
 - id: noulipo-intro
   type: chapter
@@ -146,7 +176,7 @@ references:
   type: chapter
   author:
     given: François
-    family: le Lionnais
+    family: Le Lionnais
   title: Second Manifesto
   container-title: "Oulipo: A Primer of Potential Literature"
   editor:
@@ -183,7 +213,7 @@ references:
   issued:
     month: 6
     year: 2019
-  url: www.oed.com/view/Entry/148805
+  URL: www.oed.com/view/Entry/148805
   accessed:
     day: 5
     month: 7
@@ -308,7 +338,7 @@ references:
   container-title: Drunken Boat
   issue: 8
   issn: 1537-2812
-  url: https://www.drunkenboat.com/db8/oulipo/feature-oulipo/curator/poucel/intro.html
+  URL: https://www.drunkenboat.com/db8/oulipo/feature-oulipo/curator/poucel/intro.html
   issued:
     year: 2006
 
@@ -408,6 +438,49 @@ references:
     year: 2015
   page: 315-330
 
+- id: krauss06
+  type: article-journal
+  author:
+    given: Rosalind
+    family: Krauss
+  title: Two moments from the post-medium condition
+  container-title: October
+  volume: 116
+  issued:
+    # season: spring
+    year: 2006
+  page: 55-62
+  URL: "http://www.jstor.org/stable/40368424"
+  source: JSTOR
+
+- id: krauss99
+  type: article-journal
+  author:
+    given: Rosalind
+    family: Krauss
+  title: Reinventing the medium
+  container-title: Critical Inquiry
+  volume: 25
+  issue: 2
+  page: 289-305
+  source: JSTOR
+  URL: http://www.jstor.org/stable/1344204
+  issued:
+    # season: winter
+    year: 1999
+
+- id: hansen04
+  type: book
+  title: New philosophy for new media
+  author:
+    given: Mark
+    family: Hansen
+  publisher: MIT Press
+  publisher-place: Cambridge
+  issued:
+    year: 2004
+
+
 
 # MARK: - Perec
 
@@ -420,7 +493,7 @@ references:
   issued:
     month: 7
     year: 2019
-  url: www.oed.com/view/Entry/63035
+  URL: www.oed.com/view/Entry/63035
   accessed:
     day: 5
     month: 6

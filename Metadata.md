@@ -33,6 +33,13 @@ nocite: |
   @moretti05
   @moretti13
   @stiegler16
+  @krauss06
+  @krauss99
+  @hansen04
+  @kittler99
+  @brooks-urn
+  @mcsweeneys
+  @tapeworm-foundry
 
   @oed-enumeration
   @perec-penser
