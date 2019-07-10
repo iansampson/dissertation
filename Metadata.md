@@ -60,6 +60,8 @@ nocite: |
   @calvino-cities
   @calvino-citta
 	@montfrans99
+	@calvino-memos
+	@calvino-lezioni
 
   @adorno91
   @ahenda16

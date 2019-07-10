@@ -105,7 +105,7 @@ references:
   author:
     given: Jacques
     family: Bens
-  title: "Oulipo 1960-1963"
+  title: "Genese de l’Oulipo: 1960-63"
   publisher-place: Paris
   publisher: Bourgois
   issued:
@@ -236,6 +236,7 @@ references:
   issued:
     year: 1999
   page: 243-274
+  # TODO: *On* not properly capitalized in bibliography. Add to errata.
 
 - id: matthews-potential
   type: entry-encyclopedia
@@ -1057,8 +1058,6 @@ references:
   publisher-place: Harvard
   issued:
     year: 2005
-  source: JSTOR
-  DOI: 10.1632/pmla.2010.125.4.948
 
 - id: stiegler02
   type: chapter
@@ -1165,7 +1164,6 @@ references:
   issued:
     year: 1988
 
-
 - id: calvino-letters
   type: book
   author:
@@ -1200,18 +1198,18 @@ references:
   issued:
     year: 2016
 
-# - id: calvino-lezioni
-#   type: book
-#   author:
-#     given: Italo
-#     family: Calvino
-#   title: "Lezioni americane: sei proposte per il prossimo millennio"
-#   title-short: Lezioni
-#   publisher: Mondadori
-#   publisher-place: Rome
-#   issued:
-#      year: 2012
-#   language: it-IT
+- id: calvino-lezioni
+  type: book
+  author:
+    given: Italo
+    family: Calvino
+  title: "Lezioni americane: sei proposte per il prossimo millennio"
+  title-short: Lezioni
+  publisher: Mondadori
+  publisher-place: Rome
+  issued:
+     year: 2012
+  language: it-IT
 
 - id: calvino-cities
   type: book
@@ -2065,7 +2063,7 @@ Garde"
   publisher-place: Oxford
   issued:
     year: 2003
-
+# TODO: Consider citing all volumes together.
 
 # MARK: - Bervin
 
@@ -2152,6 +2150,7 @@ Garde"
   page: 121-132
   doi: 10.1080/1015549022000040601
   source: Taylor & Francis
+  # TODO: *Radi os* compiles as *Radi Os*. Add to errata.
 
 - id: macdonald09
   type: article-magazine
@@ -2212,7 +2211,7 @@ Garde"
   type: book
   title: "Palimpsests: literature in the second degree"
   author:
-    given: Gérard
+    given: Gérard
     family: Genette
   translator:
   - given: Channa
