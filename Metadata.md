@@ -1,8 +1,8 @@
 ---
-title: "The Algorithmic Imagination"
-subtitle: "Potential Literature and New Media"
-author: "Ian Sampson"
-date: "16 January 2019"
+title-meta: "The Algorithmic Imagination"
+subtitle-meta: "Potential Literature and New Media"
+author-meta: "Ian Sampson"
+date-meta: "16 January 2019"
 bibliography: "Bibliography.yaml"
 nocite: |
   @bens80

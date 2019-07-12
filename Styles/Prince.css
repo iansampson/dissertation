@@ -174,18 +174,25 @@ sub {
 
 /* Page numbers */
 
-.tableOfContents, #title-block-header {
+.tableOfContents, .frontMatter {
     page: front-matter;
 }
 
 @page front-matter {
     @bottom {
-        content: normal;
+        content: counter(page, lower-roman);
     }
 }
+/* A hack to put a roman numeral
+on the ToC. Update the number if
+the front matter changes. */
 
 #chapter1 {
     counter-reset: page 1
+}
+
+.frontMatter {
+    counter-reset: page 4
 }
 
 ol {
