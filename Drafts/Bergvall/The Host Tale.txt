@@ -1,0 +1,193 @@
+https://quod.lib.umich.edu/c/cme/CT?rgn=main;view=fulltext
+
+The fruyt of every tale is for to seye (706)
+They ete, and drynke, and daunce, and synge, and pleye. (707)
+  They soupen and they speke, hem to solace, (4146)
+  And drynken evere strong ale atte beste. (4147)
+“Now lat us sitte and drynke, and make us merie, (88)
+And lat us dyne as soone as that ye may; (205)
+What! lat us heere a messe, and go we dyne. (223)
+The service doon, they soupen al by day. (297)
+And to the dyner faste they hem spedde, (253)
+[What! lat us heere a messe] and go we dyne. (223)
+[To vouche sauf som day] with hym to dyne. (1083)
+To come to dyner[], as he hym bisoughte;] (1094)
+And thus I lete hem ete and drynke and pleye, (73)
+But thus I lete in lust and jolitee (344)
+I lete hem, til men to the soper dresse. (290)
+They ete and drynke; and whan this hadde and ende, (295)
+Of mete and drynke, [and in hir foul delit.] (1875)
+And eten also and drynken over hir myght, (468)
+To eten of the smale peres grene. (2333)
+
+
+
+
+[] indicates lines truncated by Bergvall.
+
+COMMENTS
+========
+
+Non-standard spelling.
+Multilingualism.
+See Bergvall’s note on Chaucer.
+(And in this way related to the Dante translation.)
+Early modern English: reveals the self-difference
+within English. (Just as “Via” reveals the self-difference
+within the Italian.)
+Makes GREP difficult in some cases.
+(Parsing depends on consistent spelling.)
+Like Via, achronological.
+Bergvall’s fascination  with the refrain.
+Both with its music and with its iterative structure.
+(Repetition and difference.)
+The referent of "hem" (them?) becomes obscured:
+all the referents become one mass, one throng.
+A bit like the I in Fitterman’s No. Wait. Yep.
+Leaving the spelling unmodernized.
+(Resembles Bergvall’s other work with non-standard spelling,
+phonetic spelling.)
+It lets her be more polysemic. Make (interlingual) puns.
+(Like some of the other Chaucer tales: eke eek hem home)
+etc. (Again, there, refrain, and difference, within
+and among languages.)
+Compare to the tradition of *writing through*.
+  Cage’s mesostics, Jackson MacLow, etc.
+  (I wish I still had that Dworkin book.)
+The opening double quote (without a matching close quote).
+
+Elision/omission? Why? Shorter lines?
+(Like the refrain of a rondel.)
+Also calls attention to a larger omission,
+the space *between* lines. All the other lines
+that are missing.
+Frequent references to *also* and *and* (anaphora, or whatever:
+And then went down to the ship. Beginning with and. The temporality
+of epic. Continuance.)
+But also *end* (18. when this had an end) when it doesn’t end.
+  Foreshadowing: and give my tale an end?
+
+
+This one is more like the other works in the dissertation
+than some of Bergvall’s other Chaucer tales, on account
+of the fact that she does not modify the text in any any
+other than reframing it (and selecting and rearranging) lines.
+Although it’s agglutinative, aggregative, it also omits
+and redacts most of Chaucer (as we look forward to Chapter 5,
+Bervin’s palimpsest of Shakespeare’s Sonnets) and does not *add*
+anything. There are no words here that are not in the original.
+
+### Hospitality
+(Except the title: The Host Tale. Mine this for puns.)
+(There is a pun: the hostel, the place where they all stay,
+the inn. Or who’s tale? Or the hustle.
+A stuttering of the *st*. A disfluency.)
+(Not the Host’s Tale. The tale that hosts the others
+and begins the collection. Sounding the many variants of host
+and hospitality: as the one who welcomes guests, and an army:
+from the same Greek root ...) A host is also a threat.
+(See Derrida on this point? Bonnie Honig? Or ... who writes
+about hospitality. That person who ran the ACLA seminar ...)
+(Compare Zolf, Neighbor Procedure. Derrida, Of Hospitality.)
+(Another question Bergvall explores in her work: how languages
+mark the borders between people, exclude, draw a circle around
+a group. The most extreme case of this is the shibboleth ...
+cf. Bergvall’s work on the Parsley Massacre. Say Parsley.)
+(In all of these texts, The Host Tale and Via, taking
+a consecrated work that defines, or has been co-opted into,
+the origin of a national literature, Chaucer the father
+of the English language, Dante the origin of the modern canon, etc.
+and then revealing its *internal* difference challenges
+the way national languages strive to delineate themselves
+from the threat of the outside, the foreigner, etc.)
+(And hence the host: the character in Chaucer who welcomes
+the pilgrims and provides the frame for all of the subsequent tales,
+a common space ... for all those who have traveled, for all these
+disparate narratives to cohere ... But is also a threat somehow?
+Why? Flyting? With thy fundament depeint? No, I don’t think so.)
+
+And where does digital logic fit into all this? 1) binary,
+on/off, inside/outside, one of us or one of them ... the logic
+of absolute linguistic difference is a binary logic (something
+is either English or its not; a person is either a native (speaker)
+or a foreigner, and this foreignness is marked by a difference,
+a detectable accent, in how they speak. Parsley. Shibboleth.)
+
+The figure of the Host + festivities + the commons + heteroglossia
+(carnival, back to Rabelais with Perec) + Middle English, creole,
+polyglot, etc. This is why Bergvall turns to Chaucer.
+
+food: also a marker of difference (national cuisines, etc.)
+but also of convergence (all the different food words in Perec’s inventory)
+from many different languages ...
+That Parsley is also a food is not insigificant.
+(That one’s tongue could give one away – how you pronounce a word,
+but also what you eat, how you taste (you are what you eat) – could
+exclude some and bind others together)
+Sound the different valences of tongue: language, taste, etc.
+
+Then it’s also a food *list*, like Rabelais, like Perec.
+Where the obscenity (as Barthes calls it) of gastronomy,
+of enjoying food for its own sake, dovetails with the excess
+of the list as a form that cannot end. (Why Bergvall keeps
+referring to ending – and “and whan this hadde and ende” –
+a phrase that cuts both ways: suggesting an end but, in
+a subordinate clause following *and*, suggesting that
+something else is about to continue ... end is itself an and,
+not an end to a string of ands. Bergvall’s version of
+Perec’s etc. in the middle of his list. So when we finally
+get to “and give my tale an end,” we’ve already been prompted
+with other *ends* that did not end, suggesting that this too
+is a decoy, the promise of an end which is actually
+a continuation (and the beginning of the book, a preface).
+The poem refrains from delimiting itself from the outside,
+from all the other things it could name (a parallel, perhaps,
+to the way it refrains from dividing one language from another,
+from clearly delineating the linguisic and national contours
+of English, here at its primary scene, in the work of
+the so-called father of the English language) ...
+
+Actually the phrase is “Here is ended the Host Tale”
+(The only line *not* directly from Chaucer.)
+(Compare the ending of the others:
+Here endeth the Summer Tale.
+Here endeth the Franker Tale.
+Here endeth the Fried Tale. [51]
+And the poem “Doll” from Goan Atom:
+This is the & of the world [90])
+An earlier work (cite the PennSound recording)
+has: “I turn ... and give my tale an end.”
+(Cited from memory. Double check this.)
+
+Also compare the Not Tale. A list of negations.
+From Arcite’s funeral in the Knight’s tale.
+
+Perhaps a footnote somewhere
+on medieval poetics and avant-garde poetry
+by women. Stacy Dorris’ *Paramour*,
+for example. Rewriting the courtly love
+tradition. (Of course Bervin belongs here
+too.)
+
+and the body, sexuality, jouissance ?
+
+### A note on the text
+
+> The language party of the “Shorter Chaucer Tales”
+was initially prompted and invited by Charles Bernstein
+and David Wallace to premiere at the New Chaucer Society’s
+annual conference (New York, 28 July, 2006). The first
+four pieces of the series, published here, were
+subsequently launched as four audiotexts and hosted
+on PennSound in October 2006, by Charles Bernstein,
+Al Filreis and Michael Hennessey. Thanks to all involved
+for their dedication, and especially to Charles Bernstein
+for prompting this crucial development in my work. (161)
+
+> “The Host Tale” lists food and drink references
+in *The Canterbury Tales*. It first appeared
+in its current Middle English form in
+the Norwegian literary journal *Vagant* (Oslo,
+Spring 2007). Editors Audun Lindholm and Susanne
+Christensen let it pass for contemporary Norwegian
+preceded by a short preface. (161)
