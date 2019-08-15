@@ -3,6 +3,7 @@
 
 ### Must
 - [ ] Write conclusion for Bergvall revision
+- [ ] Add citations to new section on “The Not Tale”
 - [ ] Write conclusion for dissertation
 - [ ] Finish abstract
 
@@ -20,6 +21,7 @@
       to other moments in the book?
 - [ ] Give more close readings of *Eunoia*
 - [ ] Consider adding a footnote on César Aira in Calvino chapter
+- [ ] Rename Bergvall chapter
 
 - [ ] Page number for Bellos on 145.
 - [ ] Consider altering summary of Bartlebooth on 145 (or your earlier summary).
@@ -30,3 +32,5 @@
 ### Won’t
 - [ ] Consider reading Juan Luis Martínez’ *La nueva novela*
       (Read it when the dissertation is done.)
+- [ ] Add footnote on digital poetry.
+- [ ] Do all the things listed in your other to do lists.
