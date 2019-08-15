@@ -6,6 +6,8 @@
 - [ ] Add citations to new section on “The Not Tale”
 - [ ] Write conclusion for dissertation
 - [ ] Finish abstract
+- [ ] Update references to Bergvall chapter in introduction and elsewhere
+- [ ] Change reference to “The Fried Tale” to “The Not Tale”
 
 ### Should
 - [ ] Introduce Oulipo and its members in a more straightforward narrative
@@ -34,3 +36,6 @@
       (Read it when the dissertation is done.)
 - [ ] Add footnote on digital poetry.
 - [ ] Do all the things listed in your other to do lists.
+- [ ] Browse articles on “The Knight’s Tale”
+- [ ] Finish reading Derrida on the stranger
+- [ ] Retranslate Belacqua passage (“What good would it do to go up?”)
