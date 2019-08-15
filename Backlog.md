@@ -1,0 +1,32 @@
+# Dissertation backlog
+
+
+### Must
+- [ ] Write conclusion for Bergvall revision
+- [ ] Write conclusion for dissertation
+- [ ] Finish abstract
+
+### Should
+- [ ] Introduce Oulipo and its members in a more straightforward narrative
+- [ ] Consider extending Bervin chapter
+      (possibly via her work on Dickinson, Paul Legault’s reworkings,
+      Virginia Jackson and the New Lyric Studies, etc.)
+- [ ] Add footnote on Derrida, “Note Upon the Mystic Writing Pad”
+- [ ] Add footnote on Marcel Broodthaers’ 1969 reworking of Mallarmé’s *Un Coup de Dés*
+
+### Could
+- [ ] Consider extending the Calvino chapter:
+      could you spin out the chessboard scene’s connections
+      to other moments in the book?
+- [ ] Give more close readings of *Eunoia*
+- [ ] Consider adding a footnote on César Aira in Calvino chapter
+
+- [ ] Page number for Bellos on 145.
+- [ ] Consider altering summary of Bartlebooth on 145 (or your earlier summary).
+      Repetitive.
+- [ ] Page number for James quote on 28.
+- [ ] Add title for Calvino quote in footnote 29.
+
+### Won’t
+- [ ] Consider reading Juan Luis Martínez’ *La nueva novela*
+      (Read it when the dissertation is done.)
