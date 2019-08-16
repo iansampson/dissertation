@@ -2065,6 +2065,159 @@ Garde"
     year: 2003
 # TODO: Consider citing all volumes together.
 
+- id: bergvall11
+  type: book
+  title: Meddle English
+  author:
+    given: Caroline
+    family: Bergvall
+  publisher: Nightboat #Books
+  publisher-place: Callicoon
+  ISBN: 978-0-9822645-8-4
+  issued:
+    year: 2011
+
+- id: oed-midden
+  type: entry-dictionary
+  title: "midden, *n.*"
+  container-title: OED Online
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  issued:
+    month: 6
+    year: 2019
+  URL: www.oed.com/view/Entry/118135
+  accessed:
+    day: 15
+    month: 8
+    year: 2019
+  language: fr
+  # A hack to prevent automatic capitalization.
+
+- id: oed-pyre
+  type: entry-dictionary
+  title: "pyre, *n.*"
+  container-title: OED Online
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  issued:
+    month: 6
+    year: 2019
+  URL: www.oed.com/view/Entry/155415
+  accessed:
+    day: 15
+    month: 8
+    year: 2019
+  language: fr
+  # A hack to prevent automatic capitalization.
+
+- id: oed-how
+  type: entry-dictionary
+  title: "how, *adv.* and *n.*^3^"
+  container-title: OED Online
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  issued:
+    month: 6
+    year: 2019
+  URL: www.oed.com/view/Entry/89004
+  accessed:
+    day: 15
+    month: 8
+    year: 2019
+  language: fr
+  # A hack to prevent automatic capitalization.
+
+- id: med-appareil
+  type: entry-dictionary
+  title: "ap(p)areil *n.*"
+  container-title: Middle English Dictionary
+  # editor:
+  #  given: Robert E.
+  #  family: Lewis
+  # There are other editors, but they are not named.
+  # How to generate et al.?
+  # Omitting name because Pandoc incorrectly alphabetizes
+  # this entry by the editor’s surname.
+  publisher-place: Ann Arbor
+  publisher: University of Michigan Press
+  issued:
+    year: 2018
+  url: "http://quod.lib.umich.edu/m/middle-english-dictionary"
+  accessed:
+    day: 15
+    month: 8
+    year: 2019
+  language: fr
+
+- id: pound-cantos
+  type: book
+  title: The cantos of Ezra Pound
+  author:
+    given: Ezra
+    family: Pound
+  publisher-place: New York
+  publisher: New Directions
+  issued:
+    year: 1970
+
+- id: riverside-chaucer
+  type: book
+  title: The Riverside Chaucer
+  author:
+    given: Geoffrey
+    family: Chaucer
+  editor:
+    given: Larry D.
+    family: Benson
+  publisher-place: Oxford
+  publisher: Oxford University Press
+  issued:
+    year: 2008
+
+- id: fenollosa-cwc
+  type: book
+  title: The Chinese written character as a medium for poetry
+  author:
+    given: Ernest
+    family: Fenollosa
+  editor:
+    - given: Haun
+      family: Saussy
+    - given: Jonathan
+      family: Stalling
+    - given: Lucas
+      family: Klein
+  publisher-place: New York
+  publisher: Fordham University Press
+  issued:
+    year: 2010
+
+- id: bergvall-about-face
+  type: speech
+  author:
+    given: Caroline
+    family: Bergvall
+  title: A reading of *About Face* at the 2nd Anderson Festival, Devon, United Kingdom, 2004
+  url: http://writing.upenn.edu/pennsound/x/Bergvall.php
+  container-title: PennSound
+  accessed:
+    year: 2019
+    month: 8
+    day: 15
+
+- id: bergvall-not-tale
+  type: article-magazine
+  title: The Not Tale (Funeral)
+  author:
+    given: Caroline
+    family: Bergvall
+  container-title: Poetry
+  issued:
+    year: 2009
+    month: 7
+  url: "https://www.poetryfoundation.org/poetrymagazine/poems/52690/the-not-tale-funeral"
+
 # MARK: - Bervin
 
 - id: johnson05

@@ -39,3 +39,4 @@
 - [ ] Browse articles on “The Knight’s Tale”
 - [ ] Finish reading Derrida on the stranger
 - [ ] Retranslate Belacqua passage (“What good would it do to go up?”)
+- [ ] Add a footnote on *The Poetry of Sound* to Bergvall chapter

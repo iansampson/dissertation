@@ -1,0 +1,28 @@
+- [x] *Meddle English*
+- [x] *OED* “midden”
+  "midden, n." OED Online, Oxford University Press, June 2019, www.oed.com/view/Entry/118135. Accessed 15 August 2019.
+- [x] *MED*: “appareil”
+  https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED1887/track?counter=1&search_id=1295304
+  Middle English Dictionary. Ed. Robert E. Lewis, et al. Ann Arbor: University of Michigan Press, 1952-2001. Online edition in Middle English Compendium. Ed. Frances McSparran, et al.. Ann Arbor: University of Michigan Library, 2000-2018. <http://quod.lib.umich.edu/m/middle-english-dictionary/>. Accessed 15 August 2019.
+- [x] *OED* pyre, *n.*:
+    %A Oxford English Dictionary
+    %T "pyre, n.".
+    %! "pyre, n.".
+    %I Oxford University Press
+    %C
+    %U https://www.oed.com/view/Entry/155415?redirectedFrom=pyre
+    %W Oxford University Press
+    %~ Oxford University Press (https://www.oed.com)
+    %G English
+- [x] *OED* “how”
+"how, adv. and n.3." OED Online, Oxford University Press, June 2019, www.oed.com/view/Entry/89004. Accessed 15 August 2019.
+- [x] *Riverside Chaucer*, “The Knight’s Tale”
+- [x] Pound, *Cantos*
+
+- [x] Fenollosa, *CWC*
+- [x] note on “About Face”
+  http://writing.upenn.edu/pennsound/x/Bergvall.php
+
+### Mentioned
+PennSound archive
+“The Not Tale” in *Poetry”
