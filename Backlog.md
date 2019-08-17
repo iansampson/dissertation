@@ -3,7 +3,6 @@
 
 ### Must
 - [ ] Write conclusion for Bergvall revision
-- [ ] Add citations to new section on “The Not Tale”
 - [ ] Write conclusion for dissertation
 - [ ] Finish abstract
 - [ ] Update references to Bergvall chapter in introduction and elsewhere
@@ -40,3 +39,7 @@
 - [ ] Finish reading Derrida on the stranger
 - [ ] Retranslate Belacqua passage (“What good would it do to go up?”)
 - [ ] Add a footnote on *The Poetry of Sound* to Bergvall chapter
+
+---
+### Done
+- [x] Add citations to new section on “The Not Tale”
