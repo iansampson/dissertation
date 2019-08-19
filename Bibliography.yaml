@@ -652,7 +652,7 @@ references:
   type: article-journal
   author:
     given: N. Katherine
-    family: Kayles
+    family: Hayles
   title: "Narrative and database: natural symbionts"
   container-title: PMLA
   volume: 122
@@ -2543,5 +2543,21 @@ Garde"
     year: 2014
   page: 16-33
   source: Project Muse
+
+
+# MARK: - Conclusion
+
+- id: hayles-attention
+  type: article-journal
+  author:
+    given: N. Katherine
+    family: Hayles
+  title: "Hyper and deep attention: the generational divide in cognitive modes"
+  container-title: Profession
+  issued:
+    year: 2007
+  page: pp. 187–199
+  source: JSTOR
+  URL: www.jstor.org/stable/25595866
 
 ...
