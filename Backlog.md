@@ -2,13 +2,12 @@
 
 
 ### Must
-- [ ] Write conclusion for Bergvall revision
 - [ ] Write conclusion for dissertation
 - [ ] Finish abstract
-- [ ] Update references to Bergvall chapter in introduction and elsewhere
 - [ ] Change reference to “The Fried Tale” to “The Not Tale”
 
 ### Should
+- [ ] Update references to Bergvall chapter in introduction and elsewhere
 - [ ] Introduce Oulipo and its members in a more straightforward narrative
 - [ ] Consider extending Bervin chapter
       (possibly via her work on Dickinson, Paul Legault’s reworkings,
@@ -42,4 +41,5 @@
 
 ---
 ### Done
+- [x] Write conclusion for Bergvall revision
 - [x] Add citations to new section on “The Not Tale”
