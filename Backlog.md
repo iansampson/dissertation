@@ -5,11 +5,7 @@
 - [ ] Cut 16+ words from abstract
 
 ### Should
-- [x] Add a footnote to Bervin chapter (re: Dickinson, Paul Legault’s reworkings,
-      Virginia Jackson and the New Lyric Studies, etc.)
-- [ ] Add reference to Bervin’s website in Dickinson footnote re: Composites. http://jenbervin.com/projects/the-dickinson-composites-series#2
 - [ ] Add footnote on Derrida, “Note Upon the Mystic Writing Pad”
-- [ ] Add footnote on Marcel Broodthaers’ 1969 reworking of Mallarmé’s *Un Coup de Dés*
 - [ ] Introduce Oulipo and its members in a more straightforward narrative
 - [ ] Add a final paragraph to conclusion
 
@@ -19,6 +15,8 @@
       Repetitive.
 - [ ] Page number for James quote on 28.
 - [ ] Add title for Calvino quote in footnote 29.
+- [ ] Add footnote on Agamben and Calvino.
+- [ ] Add books mentioned in Dickinson footnote to bibliography
 
 ### Won’t
 - [ ] Consider reading Juan Luis Martínez’ *La nueva novela*
@@ -37,6 +35,7 @@
 
 ---
 ### Done
+- [x] Add reference to Bervin’s website in Dickinson footnote re: Composites. http://jenbervin.com/projects/the-dickinson-composites-series#2
 - [x] Write conclusion for Bergvall revision
 - [x] Add citations to new section on “The Not Tale”
 - [x] Write conclusion for dissertation
@@ -44,3 +43,6 @@
 - [x] Change reference to “The Fried Tale” to “The Not Tale”
 - [x] Rename Bergvall chapter
 - [x] Update references to Bergvall chapter in introduction and elsewhere
+- [x] Add a footnote to Bervin chapter (re: Dickinson, Paul Legault’s reworkings,
+      Virginia Jackson and the New Lyric Studies, etc.)
+- [x] Add footnote on Marcel Broodthaers’ 1969 reworking of Mallarmé’s *Un Coup de Dés*

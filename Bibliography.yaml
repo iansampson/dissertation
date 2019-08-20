@@ -2221,6 +2221,48 @@ Garde"
 
 # MARK: - Bervin
 
+- id: gibbons-broodthaers
+  type: article-magazine
+  title: "Only Abandoned: The Poetry of Marcel Broodthaers"
+  author:
+    given: James
+    family: Gibbons
+  container-title: Hyperallergic
+  issued:
+    year: 2016
+    month: 16
+    day: 19
+  accessed:
+    year: 2019
+    month: 8
+    day: 20
+  URL: https://hyperallergic.com/283748/only-abandoned-the-poetry-of-marcel-broodthaers/
+
+- id: pichler-exhibit
+  type: webpage
+  title: "Michalis Pichler: *Exposition littéraire autour de Mallarmé*"
+  title-short: "Michalis Pichler"
+  container-title: e-flux
+  URL: https://www.e-flux.com/announcements/81491/michalis-pichlerexposition-littraire-autour-de-mallarm/
+  issued:
+    year: 2016
+    month: 12
+    day: 7
+  accessed:
+    year: 2019
+    month: 8
+    day: 20
+
+- id: bervin-composites
+  type: webpage
+  title: The Dickinson composites series
+  title-short: Composites
+  author:
+    given: Jen
+    family: Bervin
+  container-title: Jen Bervin
+  URL: "http://jenbervin.com/projects/the-dickinson-composites-series#2"
+
 - id: bervin-scale
   type: article-magazine
   title: Studies in Scale
