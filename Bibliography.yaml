@@ -1574,7 +1574,7 @@ references:
     given: Kenneth
     family: Goldsmith
   title: "Flarf is Dionysus. Conceptual Writing is Apollo."
-  container-title: Poetry Magazine
+  container-title: Poetry
   issued:
     month: 7
     # TODO: Should be July/August.
@@ -2143,7 +2143,7 @@ Garde"
   publisher: University of Michigan Press
   issued:
     year: 2018
-  url: "http://quod.lib.umich.edu/m/middle-english-dictionary"
+  URL: "http://quod.lib.umich.edu/m/middle-english-dictionary"
   accessed:
     day: 15
     month: 8
@@ -2199,7 +2199,7 @@ Garde"
     given: Caroline
     family: Bergvall
   title: A reading of *About Face* at the 2nd Anderson Festival, Devon, United Kingdom, 2004
-  url: http://writing.upenn.edu/pennsound/x/Bergvall.php
+  URL: http://writing.upenn.edu/pennsound/x/Bergvall.php
   container-title: PennSound
   accessed:
     year: 2019
@@ -2216,9 +2216,23 @@ Garde"
   issued:
     year: 2009
     month: 7
-  url: "https://www.poetryfoundation.org/poetrymagazine/poems/52690/the-not-tale-funeral"
+  source: The Poetry Foundation
+  URL: "https://www.poetryfoundation.org/poetrymagazine/poems/52690/the-not-tale-funeral"
 
 # MARK: - Bervin
+
+- id: bervin-scale
+  type: article-magazine
+  title: Studies in Scale
+  author:
+    given: Jen
+    family: Bervin
+  container-title: Poetry
+  issued:
+    year: 2013
+    month: 11
+  source: The Poetry Foundation
+  URL: "https://www.poetryfoundation.org/poetrymagazine/articles/70065/studies-in-scale"
 
 - id: johnson05
   type: book
@@ -2315,7 +2329,7 @@ Garde"
   issue: 38
   issued:
     year: 2009
-  url: "http://jacketmagazine.com/38/macdonald-erasure.shtml"
+  URL: "http://jacketmagazine.com/38/macdonald-erasure.shtml"
 
 - id: johnson96
   type: interview
@@ -2331,7 +2345,7 @@ Garde"
   issued:
     year: 1996
   page: 32-53
-  url: https://www.jstor.org/stable/25306022
+  URL: https://www.jstor.org/stable/25306022
   source: JSTOR
 
 - id: bervin-asymptote
@@ -2345,7 +2359,7 @@ Garde"
   container-title: Asymptote
   issued:
     year: 2017
-  url: "https://www.asymptotejournal.com/interview/an-interview-with-jen-bervin"
+  URL: "https://www.asymptotejournal.com/interview/an-interview-with-jen-bervin"
 
 - id: notes-on-conceptualisms
   type: book
@@ -2411,7 +2425,7 @@ Garde"
   issued:
     # season: autumn
     year: 2008
-  url: https://www.jstor.org/stable/10.1086/595632
+  URL: https://www.jstor.org/stable/10.1086/595632
   doi: 10.1086/595632
   source: JSTOR
 
@@ -2425,7 +2439,7 @@ Garde"
   issued:
     month: 07 #July/August
     year: 2009
-  url: "https://www.poetryfoundation.org/poetrymagazine/poems/52692/two-poems-from-the-day"
+  URL: "https://www.poetryfoundation.org/poetrymagazine/poems/52692/two-poems-from-the-day"
 
 - id: harmon81
   type: article-journal
@@ -2510,7 +2524,7 @@ Garde"
     year: 2010
   source: Open Edition Journals
   issn: 1765-2766
-  url: http://transatlantica.revues.org/4815
+  URL: http://transatlantica.revues.org/4815
 
 - id: colebrook11
   type: chapter
@@ -2543,6 +2557,17 @@ Garde"
     year: 2014
   page: 16-33
   source: Project Muse
+
+- id: jackson-misery
+  type: book
+  title: "Dickinson’s Misery: a theory of lyric reading"
+  author:
+    given: Virginia
+    family: Jackson
+  publisher-place: Princeton
+  publisher: Princeton University Press
+  issued:
+    year: 2005
 
 
 # MARK: - Conclusion
