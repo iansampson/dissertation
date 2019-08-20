@@ -2221,6 +2221,21 @@ Garde"
 
 # MARK: - Bervin
 
+- id: derrida-freud
+  type: chapter
+  title: "Freud and the scene of writing"
+  container-title: "Writing and difference"
+  author:
+    given: Jacques
+    family: Derrida
+  translator:
+    given: Alan
+    family: Bass
+  issued:
+    year: 1978
+  publisher-place: Chicago
+  publisher: University of Chicago Press
+
 - id: gibbons-broodthaers
   type: article-magazine
   title: "Only Abandoned: The Poetry of Marcel Broodthaers"

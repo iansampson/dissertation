@@ -5,7 +5,6 @@
 - [ ] Cut 16+ words from abstract
 
 ### Should
-- [ ] Add footnote on Derrida, “Note Upon the Mystic Writing Pad”
 - [ ] Introduce Oulipo and its members in a more straightforward narrative
 - [ ] Add a final paragraph to conclusion
 
@@ -35,6 +34,7 @@
 
 ---
 ### Done
+- [x] Add footnote on Derrida, “Note Upon the Mystic Writing Pad”
 - [x] Add reference to Bervin’s website in Dickinson footnote re: Composites. http://jenbervin.com/projects/the-dickinson-composites-series#2
 - [x] Write conclusion for Bergvall revision
 - [x] Add citations to new section on “The Not Tale”
