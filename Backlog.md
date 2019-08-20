@@ -2,9 +2,9 @@
 
 
 ### Must
-- [ ] Write conclusion for dissertation
+- [x] Write conclusion for dissertation
 - [ ] Finish abstract
-- [ ] Change reference to “The Fried Tale” to “The Not Tale”
+- [x] Change reference to “The Fried Tale” to “The Not Tale”
 
 ### Should
 - [ ] Update references to Bergvall chapter in introduction and elsewhere
