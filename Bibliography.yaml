@@ -22,6 +22,7 @@ references:
 - id: mcsweeneys
   type: webpage
   title: "All that is evident is suspect: Readings from the Oulipo, 1963-2018"
+  title-short: All that is evident
   container-title: The McSweeney’s Store
   URL: "https://store.mcsweeneys.net/products/all-that-is-evident-is-suspect"
 
@@ -287,7 +288,7 @@ references:
   translator:
     given: Stanley
     family: Chapman
-  page: 14-34
+  page: 14-33
   container-title: Oulipo Compendium
   editor:
   - given: Harry
@@ -487,6 +488,36 @@ references:
 
 
 # MARK: - Perec
+
+- id: wadhera-manger
+  type: article-journal
+  title: "Manger chez Perec: Food on the Threshold Between Metaphor and Matter in *W ou le souvenir d’enfance*"
+  author:
+    given: Priya
+    family: Wadhera
+  container-title: Contemporary French and Francophone Studies
+  volume: 21
+  issue: 3
+  language: fr
+  issued:
+    day: 20
+    month: 12
+    year: 2017
+  source: Taylor & Francis
+  DOI: "10.1080/17409292.2017.1396774"
+
+- id: jullien-cuisine
+  type: article-journal
+  title: La Cuisine de Georges Perec
+  author:
+    given: Dominique
+    family: Jullien
+  container-title: Littérature
+  issue: 129
+  issued:
+    year: 2003
+  page: 13-14
+  DOI: "10.3406/litt.2003.1784"
 
 - id: magne-index
   type: article-journal
@@ -2420,7 +2451,7 @@ Garde"
 
 - id: bervin-composites
   type: webpage
-  title: The Dickinson composites series
+  title: "*The Dickinson composites* series"
   title-short: Composites
   author:
     given: Jen
@@ -2447,6 +2478,22 @@ Garde"
     given: Ronald
     family: Johnson
   title: Radi os
+  publisher: Flood Editions
+  publisher-place: Chicago
+  issued:
+    year: 1981
+
+# TODO: Consider removing if you can’t fix the container-author.
+- id: davenport05
+  type: book
+  author:
+    given: Guy
+    family: Davenport
+  title: An afterword
+  container-title: Radi os
+  container-author:
+    given: Ronald
+    family: Johnson
   publisher: Flood Editions
   publisher-place: Chicago
   issued:

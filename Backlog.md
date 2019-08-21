@@ -12,6 +12,9 @@
 - [ ] Fix Pages bookstore citation on 169.
 
 ### Could
+- [ ] Cite Donne, “The Computation,” by itself (since Johnson does not technically cite it).
+- [ ] Add name in brackets for McCarty if needed (53). (Although it is technically correct MLA).
+
 - [ ] Tweak block quote indentation
 - [ ] Remove empty space at the top of some pages (e.g. 107)
 
@@ -22,7 +25,11 @@
 - [ ] Make sure every article in bibliography has an URL or DOI.
 - [ ] (e.g. Add URL for Scott Pound article)
 
+- [ ] Remove Davenport from biblio if deemed unnecessary
+      (as the container-author field doesn’t appear correctly.)
+
 ### Won’t
+- [ ] Find whatever you meant by Magné, “Tentative” (re: food in Perec)
 - [ ] Consider altering summary of Bartlebooth on 145 (or your earlier summary).
       Repetitive.
 - [ ] Consider reading Juan Luis Martínez’ *La nueva novela*
@@ -59,3 +66,6 @@
 - [x] Add a footnote to Bervin chapter (re: Dickinson, Paul Legault’s reworkings,
       Virginia Jackson and the New Lyric Studies, etc.)
 - [x] Add footnote on Marcel Broodthaers’ 1969 reworking of Mallarmé’s *Un Coup de Dés*
+- [x] Check bibliography for:
+  - [x] Jullien [missing]
+  - [x] Wadhera [Wadhera]
