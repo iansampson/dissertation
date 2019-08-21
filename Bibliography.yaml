@@ -488,6 +488,99 @@ references:
 
 # MARK: - Perec
 
+- id: magne-index
+  type: article-journal
+  title: Georges Perec on the index
+  title-short: Index
+  author:
+    given: Bernard
+    family: Magné
+  translator:
+    given: Peter
+    family: Consenstein
+  container-title: Yale french studies
+  issue: 105
+  page: 72-88
+  URL: "https://www.jstor.org/stable/3182518"
+  source: JSTOR
+
+- id: james-chance
+  type: book
+  title: "Constraining chance: Georges Perec and the Oulipo"
+  author:
+    given: Alison
+    family: James
+  publisher-place: Evanston
+  publisher: Northwestern University Press
+  issued:
+    year: 2009
+
+- id: wolff-oracle
+  type: chapter
+  title: "Invoking the oracle: Perec, algorithms, and conceptual writing"
+  author:
+    given: Mark
+    family: Wolff
+  container-title: The afterlives of Georges Perec
+  editor:
+    - given: Rowan
+      family: Wilken
+    - given: Justin
+      family: Clemens
+  URL: "https://www.jstor.org/stable/10.3366/j.ctt1g0527d.10"
+  source: JSTOR
+  page: 85-101
+
+- id: wolff-reading-potential
+  type: article-journal
+  title: "Reading potential: the Oulipo and the meaning of algorithms"
+  author:
+    given: Mark
+    family: Wolff
+  container-title: Digital humanities quarterly # Consider abbreviating to DHQ.
+  volume: 1
+  issue: 1
+  issued:
+    year: 2007
+  URL: http://www.digitalhumanities.org/dhq/vol/1/1/000005/000005.html
+
+- id: wilken-fox
+  type: chapter
+  title: "The quick brown fox jumps over the lazy dog: Perec, description and the scene of everyday computer use"
+  author:
+    given: Rowan
+    family: Wilken
+  container-title: "The afterlives of Georges Perec"
+  editor:
+    - given: Rowan
+      family: Wilken
+    - given: Justin
+      family: Clemens
+  publisher-place: Edinburgh
+  publisher: Edinburgh University Press
+  issued:
+    year: 2017
+  page: 226–242
+
+- id: magne-ordinateur
+  type: chapter
+  title: Perec et l’ordinateur
+  author:
+    given: Bernard
+    family: Magné
+  container-title: Mesures et démesure dans les lettres françaises au XXe siècle
+  editor:
+    - given: Jean-Pierre
+      family: Goldenstein
+    - given: Michel
+      family: Bernard
+  publisher-place: Paris
+  publisher: Honoré Champion
+  page: 410-414
+  issued:
+    year: 2007
+  language: fr
+
 - id: oed-enumeration
   type: entry-dictionary
   title: "enumeration, *n.*"
@@ -632,7 +725,7 @@ references:
 - id: galloway12
   type: book
   author:
-    given: Andrew
+    given: Alexander
     family: Galloway
   title: The interface effect
   publisher: Polity
@@ -966,6 +1059,36 @@ references:
 
 # MARK: - Calvino
 
+- id: calvino-columbia
+  type: article-journal
+  title: On *Invisible Cities*
+  author:
+    given: Italo
+    family: Calvino
+  container-title: "Columbia: A Journal of Literature and Art"
+  issue: 40
+  issued:
+    year: 2004
+    month: 10
+  page: 177-182
+  URL: "https://www.jstor.org/stable/41808770"
+  source: JSTOR
+
+- id: calvino-comico
+  type: chapter
+  author:
+    given: Italo
+    family: Calvino
+  title: "Definizioni di territori: il comico"
+  title-short: "Il comico"
+  container-title: "Una pietra sopra: discorsi di letteratura e società"
+  issued:
+    year: 1980
+  publisher-place: Turin
+  publisher: Einaudi
+  page: 157-8
+  language: it
+
 - id: evens15
   type: book
   author:
@@ -1162,6 +1285,7 @@ references:
     given: Italo
     family: Calvino
   title: "Lezioni americane: sei proposte per il prossimo millennio"
+  title-short: Lezioni
   language: it-IT
   publisher: Garzanti
   issued:
@@ -1191,7 +1315,8 @@ references:
   author:
     given: Italo
     family: Calvino
-  title: Six Memos for the Next Millenium
+  title: Six memos for the next millenium
+  title-short: Six memos
   title-short: Memos
   translator:
     given: Geoffrey
@@ -1514,6 +1639,7 @@ references:
     given: Umberto
     family: Eco
   title: Semiotics and the Philosophy of Language
+  title-short: Semiotics
   publisher: Indiana University Press
   publisher-place: Bloomington
   issued:

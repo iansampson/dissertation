@@ -1,11 +1,10 @@
 ---
-title-meta: "The Algorithmic Imagination"
-subtitle-meta: "Potential Literature and New Media"
+title-meta: "Tuneless Numbers"
+subtitle-meta: "New Media, Poetry, and the Oulipo"
 author-meta: "Ian Sampson"
-date-meta: "16 January 2019"
+date-meta: "13 September 2019"
 bibliography: "Bibliography.yaml"
 nocite: |
-  @bens80
   @motte06
   @becker12
   @roubaud98
@@ -40,6 +39,7 @@ nocite: |
   @brooks-urn
   @mcsweeneys
   @tapeworm-foundry
+	@bens80
 
   @oed-enumeration
   @perec-penser
@@ -51,6 +51,10 @@ nocite: |
   @perec-granta
 	@perec-species
 	@jack17
+	@wolff-reading-potential
+	@wolff-oracle
+	@wilken-fox
+	@magne-ordinateur
 
 	@chun11
   @deman84
@@ -143,7 +147,7 @@ nocite: |
 	@broqua10
 	@colebrook11
 	@cooney14
-	
+
 	@hayles-attention
 	@hayles07
 ---

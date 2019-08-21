@@ -4,18 +4,21 @@
 ### Must
 
 ### Should
-
-### Could
-- [ ] Slightly extend acknowledgement to mom and Andreas.
+- [ ] Fix errors in John’s notes.
 - [ ] Add page number for Bellos on 145.
 - [ ] Add page number for James quote on 28.
 - [ ] Add title for Calvino quote in footnote 29.
-- [ ] Add books mentioned in Dickinson footnote to bibliography
-- [ ] Remove empty space at the top of some pages (e.g. 107)
 - [ ] Add citation of Swift Standard Library
-- [ ] Add footnote on Agamben and Calvino
-- [ ] Tweak block quote indentation
 - [ ] Fix Pages bookstore citation on 169.
+
+### Could
+- [ ] Tweak block quote indentation
+- [ ] Remove empty space at the top of some pages (e.g. 107)
+
+- [ ] Slightly extend acknowledgement to mom and Andreas.
+
+- [ ] Add books mentioned in Dickinson footnote to bibliography
+- [ ] Add footnote on Agamben and Calvino
 - [ ] Make sure every article in bibliography has an URL or DOI.
 - [ ] (e.g. Add URL for Scott Pound article)
 
@@ -35,6 +38,7 @@
       to other moments in the book?
 - [ ] Give more close readings of *Eunoia*
 - [ ] Consider adding a footnote on César Aira in Calvino chapter
+- [ ] Add a pun in the section on “The Not Tale” re: tally (a tale, or a tally [113])
 
 ---
 ### Done
