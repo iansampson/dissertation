@@ -4,8 +4,6 @@
 ### Must
 
 ### Should
-- [ ] Reread footnotes, especially new ones.
-- [ ] Reread bibliography.
 
 ### Could
 - [ ] Slightly extend acknowledgement to mom and Andreas.
@@ -40,6 +38,8 @@
 
 ---
 ### Done
+- [x] Reread footnotes, especially new ones.
+- [x] Reread bibliography.
 - [x] Cut 16+ words from abstract
 - [x] Tweak final sentence of conclusion.
 - [x] Introduce Oulipo and its members in a more straightforward narrative
