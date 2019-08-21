@@ -1917,6 +1917,26 @@ Garde"
 
 # MARK: - Bergvall
 
+- id: shelley-adonais
+  type: chapter
+  title: Adonais
+  author:
+    given: Percy Bysshe
+    family: Shelley
+  editor:
+    - given: Donald H.
+      family: Reiman
+    - given: Neil
+      family: Fraistat
+  edition: 2
+  page: 407-427
+  container-title: Shelley’s poetry and prose
+  publisher: Norton
+  publisher-place: New York
+  issued:
+    year: 2002
+  ISBN: 0-393-97752-8
+
 - id: bergvall-constraint
   type: chapter
   author:

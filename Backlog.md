@@ -5,17 +5,20 @@
 - [ ] Cut 16+ words from abstract
 
 ### Should
-- [ ] Introduce Oulipo and its members in a more straightforward narrative
-- [ ] Add a final paragraph to conclusion
+- [ ] Reread footnotes, especially new ones.
 
 ### Could
+- [ ] Slightly extends acknowledgement to mom and Andreas.
+- [ ] Tweak block quote indentation
 - [ ] Page number for Bellos on 145.
 - [ ] Consider altering summary of Bartlebooth on 145 (or your earlier summary).
       Repetitive.
 - [ ] Page number for James quote on 28.
 - [ ] Add title for Calvino quote in footnote 29.
-- [ ] Add footnote on Agamben and Calvino.
 - [ ] Add books mentioned in Dickinson footnote to bibliography
+- [ ] Remove empty space at the top of some pages (e.g. 107)
+- [ ] Add citation of Swift Standard Library
+- [ ] Add footnote on Agamben and Calvino
 
 ### Won’t
 - [ ] Consider reading Juan Luis Martínez’ *La nueva novela*
@@ -34,6 +37,8 @@
 
 ---
 ### Done
+- [x] Tweak final sentence of conclusion.
+- [x] Introduce Oulipo and its members in a more straightforward narrative
 - [x] Add footnote on Derrida, “Note Upon the Mystic Writing Pad”
 - [x] Add reference to Bervin’s website in Dickinson footnote re: Composites. http://jenbervin.com/projects/the-dickinson-composites-series#2
 - [x] Write conclusion for Bergvall revision
