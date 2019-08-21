@@ -2,7 +2,6 @@
 
 
 ### Must
-- [ ] Cut 16+ words from abstract
 
 ### Should
 - [ ] Reread footnotes, especially new ones.
@@ -37,6 +36,7 @@
 
 ---
 ### Done
+- [x] Cut 16+ words from abstract
 - [x] Tweak final sentence of conclusion.
 - [x] Introduce Oulipo and its members in a more straightforward narrative
 - [x] Add footnote on Derrida, “Note Upon the Mystic Writing Pad”
