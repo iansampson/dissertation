@@ -5,21 +5,25 @@
 
 ### Should
 - [ ] Reread footnotes, especially new ones.
+- [ ] Reread bibliography.
 
 ### Could
-- [ ] Slightly extends acknowledgement to mom and Andreas.
-- [ ] Tweak block quote indentation
-- [ ] Page number for Bellos on 145.
-- [ ] Consider altering summary of Bartlebooth on 145 (or your earlier summary).
-      Repetitive.
-- [ ] Page number for James quote on 28.
+- [ ] Slightly extend acknowledgement to mom and Andreas.
+- [ ] Add page number for Bellos on 145.
+- [ ] Add page number for James quote on 28.
 - [ ] Add title for Calvino quote in footnote 29.
 - [ ] Add books mentioned in Dickinson footnote to bibliography
 - [ ] Remove empty space at the top of some pages (e.g. 107)
 - [ ] Add citation of Swift Standard Library
 - [ ] Add footnote on Agamben and Calvino
+- [ ] Tweak block quote indentation
+- [ ] Fix Pages bookstore citation on 169.
+- [ ] Make sure every article in bibliography has an URL or DOI.
+- [ ] (e.g. Add URL for Scott Pound article)
 
 ### Won’t
+- [ ] Consider altering summary of Bartlebooth on 145 (or your earlier summary).
+      Repetitive.
 - [ ] Consider reading Juan Luis Martínez’ *La nueva novela*
       (Read it when the dissertation is done.)
 - [ ] Add footnote on digital poetry.

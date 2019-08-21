@@ -6,7 +6,8 @@ references:
 
 - id: tapeworm-foundry
   type: book
-  title: "The tapeworm foundry: andor the dangerous prevalence of the imagination"
+  # title: "The tapeworm foundry: andor the dangerous prevalence of the imagination"
+  title: "The Tapeworm Foundry: andor the Dangerous Prevalence of the Imagination"
   author:
     given: Darren
     family: Wershler-Henry
@@ -14,6 +15,8 @@ references:
   issued:
     year: 2002
   URL: "http://www.ubu.com/ubu/pdf/wershler_tapeworm.pdf"
+  language: fr
+  # A hack to avoid improper capitalization.
 
 
 - id: mcsweeneys
@@ -1261,7 +1264,7 @@ references:
 
 - id: scorporare
   type: entry-dictionary
-  title: "scorporare"
+  title: "scorporare, *v*."
   container-title: Un dizionario italiano da un affiliato di Oxford University Press
   language: it-IT
   publisher: Mondadori
@@ -1423,7 +1426,7 @@ references:
   author:
     given: Christian
     family: Bök
-  title: "On Being Stubborn: Close Listening with Christian Bök."
+  title: "On Being Stubborn: Close Listening with Christian Bök."
   container-title: Jacket 2
   issued:
     month: 4
@@ -1656,7 +1659,7 @@ Garde"
   author:
     given: Alfred
     family: Jarry
-  title: "Gestes et opinions du docteur Faustroll, pataphysicien: Roman néoscientifique"
+  title: "Gestes et opinions du docteur Faustroll, pataphysicien: Roman néoscientifique"
   publisher: Charpentier
   publisher-place: Paris
   issued:
@@ -1846,7 +1849,7 @@ Garde"
     family: Roubaud
     given: Jacques
   title: "Deux principes parfois respectés par les travaux oulipiens"
-  container-title: Atlas de littérature potentielle
+  container-title: Atlas de littérature potentielle
   publisher: Gallimard
   publisher-place: Paris
   issued:
@@ -2278,7 +2281,7 @@ Garde"
   title: "Michalis Pichler: *Exposition littéraire autour de Mallarmé*"
   title-short: "Michalis Pichler"
   container-title: e-flux
-  URL: https://www.e-flux.com/announcements/81491/michalis-pichlerexposition-littraire-autour-de-mallarm/
+  URL: https://www.e-flux.com/announcements/81491/michalis-pichlerexposition-littraire-autour-de-mallarm
   issued:
     year: 2016
     month: 12
@@ -2287,6 +2290,7 @@ Garde"
     year: 2019
     month: 8
     day: 20
+  language: fr
 
 - id: bervin-composites
   type: webpage
