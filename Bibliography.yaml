@@ -1572,6 +1572,22 @@ references:
 
 # MARK: - Bök
 
+- id: cryptic-crossword
+  type: post
+  title: Comment on “More Nude Formalism”
+  # TODO: Remove double quotes around title (in MLA).
+  container-title: Harriet Blog
+  author:
+    given: Simon
+    family: Dedeo
+  issued:
+    day: 17
+    month: 12
+    year: 2007
+  # source: The Poetry Foundation
+  URL: https://www.poetryfoundation.org/harriet/2007/12/more-nude-formalism
+
+
 - id: morton-spice
   type: book
   author:
@@ -2097,6 +2113,7 @@ Garde"
     given: Marjorie
     family: Perloff
   title: "The Oulipo Factor: The Procedural Poetics of Christian Bök and Caroline Bergvall"
+  title-short: Oulipo
   container-title: Textual Practice
   volume: 18
   issue: 1
@@ -2158,7 +2175,8 @@ Garde"
   author:
     given: Jacques
     family: Rancière
-  title: The Politics of Aesthetics
+  title: "The Politics of Aesthetics: The distribution of the sensible"
+  title-short: Politics
   translator:
     given: Gabriel
     family: Rockhill
@@ -2173,6 +2191,7 @@ Garde"
     family: Roubaud
     given: Jacques
   title: "Deux principes parfois respectés par les travaux oulipiens"
+  title-short: "Deux principes"
   container-title: Atlas de littérature potentielle
   publisher: Gallimard
   publisher-place: Paris
@@ -2540,17 +2559,17 @@ Garde"
     year: 2010
 
 - id: bergvall-about-face
-  type: speech
+  type: webpage
   author:
     given: Caroline
     family: Bergvall
   title: A reading of *About Face* at the 2nd Anderson Festival, Devon, United Kingdom, 2004
   URL: http://writing.upenn.edu/pennsound/x/Bergvall.php
   container-title: PennSound
-  accessed:
-    year: 2019
-    month: 8
-    day: 15
+  # accessed:
+  #   year: 2019
+  #   month: 8
+  #   day: 15
 
 - id: bergvall-not-tale
   type: article-magazine
@@ -2571,6 +2590,7 @@ Garde"
   type: chapter
   title: "Freud and the scene of writing"
   container-title: "Writing and difference"
+  page: 196-231
   author:
     given: Jacques
     family: Derrida
@@ -2597,7 +2617,7 @@ Garde"
     year: 2019
     month: 8
     day: 20
-  URL: https://hyperallergic.com/283748/only-abandoned-the-poetry-of-marcel-broodthaers/
+  URL: https://hyperallergic.com/283748/only-abandoned-the-poetry-of-marcel-broodthaers
 
 - id: pichler-exhibit
   type: webpage

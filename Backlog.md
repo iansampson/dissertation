@@ -6,14 +6,14 @@
 - [ ] Send!
 
 ### Should
-- [ ] Double check for citation errors with search.
 - [ ] Tweak block quote indentation
 - [ ] Remove empty space at the top of some pages (e.g. 107)
-
-### Could
 - [ ] Slightly extend acknowledgement to mom and Andreas.
 
+### Could
+- [ ] change repetitive “as well as” in bio to “a translator *and* a poet
 - [ ] Put Bénabou in the right order. (Requires installing Unicode collation with pandoc.)
+- [ ] Remove double quotes around title on Dedeo (in MLA).
 - [ ] Cite Keats, “The Eve of St. Agnes” from a more reliable source (e.g. Poems & Letters)
 - [ ] Cite Donne, “The Computation,” by itself (since Johnson does not technically cite it).
 - [ ] Add name in brackets for McCarty if needed (53). (Although it is technically correct MLA).
@@ -29,6 +29,29 @@
 (Difficult to do without the Italian, and the block quote gives a page number, which is probably the same.)
 
 ### Won’t
+- [ ] Add in-text reference for OED potential citation
+- [ ] Add Donne, The Computation
+- [ ] Add specific reference to Pound/Fenollosa
+- [ ] Add bibliographic entry for Phillips, A Humament (only mentioned)
+- [ ] Disambiguate Perloff in Bergvall chapter
+      (if you cite *Unoriginal Genius*, which you do)
+- [ ] Does Tan Lin need page numbers?
+- [ ] Add page number for chrononormativity in Freeman
+- [ ] Add Eliot, epigram to the Wasteland (“il miglior fabbro”)
+- [ ] Make it clear that Valéry is cited in Baetens and Poucel
+      (Or add direct reference to Valéry: not needed: “sympathy for the return to order”)
+- [ ] Consider adding reference for Marvell, “ye living lamps”
+- [ ] Coleridge citation? Otherwise change to ctd. in Starnino.
+- [ ] Add page number to second Ngai instance re: stuplimity.
+- [ ] Consider adding *Drift*, since you mention it
+- [ ] Consider adding line numbers to Bergvall
+- [ ] Consider finding a better Virgil translation. Or lineate.
+- [ ] Consider quoting Chun in Calvino chapter rather than just referencing.
+- [ ] Disambiguate McLaughlin if you add the *other* McLaughlin (which you don’t, so forget about it)
+- [ ] Disambiguate Johnson references (because *Hyperboles* is in bibliography)
+- [ ] Consider adding (Place and Fitterman 11) note in Bergvall to help locate text
+      in bibliography (although the preface is written by Fitterman ...)
+
 - [ ] Add line numbers to poetry citations after block quotes (e.g. with Bervin and Shakespeare on p. 145).
 - [ ] Find whatever you meant by Magné, “Tentative” (re: food in Perec)
 - [ ] Consider altering summary of Bartlebooth on 145 (or your earlier summary).
@@ -50,6 +73,13 @@
 
 ---
 ### Done
+- [x] Goldsmith, readership and thinkership missing a page reference
+- [x] Disambiguate Perloff references
+- [x] Disambiguate Roubaud in Eunoia chapter.
+- [x] Disambiguate Rancière references to Politics and Aesthetics.
+- [x] Add page numbers for Rancière, “representational regime of the arts”
+- [x] Find or add reference to random Harriet blog reader (“cryptic crossword”)
+- [x] Double check for citation errors with search.
 - [x] Fix Pages bookstore citation on 169.
 - [x] Add citation of Swift Standard Library
 - [x] Add page number for Bellos on 145.
