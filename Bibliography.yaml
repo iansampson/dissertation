@@ -489,6 +489,15 @@ references:
 
 # MARK: - Perec
 
+- id: keats-eve
+  type: webpage
+  title: The eve of St. Agnes
+  author:
+    given: John
+    family: Keats
+  container-title: Poetry Foundation
+  URL: https://www.poetryfoundation.org/poems/44470/the-eve-of-st-agnes
+
 - id: wadhera-manger
   type: article-journal
   title: "Manger chez Perec: Food on the Threshold Between Metaphor and Matter in *W ou le souvenir d’enfance*"
@@ -743,6 +752,7 @@ references:
     given: Ed
     family: Folsom
   title: "Database as genre: the epic transformation of archives"
+  title-short: "Database"
   container-title: PMLA
   volume: 122
   issue: 5
@@ -752,6 +762,22 @@ references:
   page: 1571-1579
   source: JSTOR
   URL: http://www.jstor.org/stable/25501803
+
+- id: folsom-reply
+  type: article-journal
+  author:
+    given: Ed
+    family: Folsom
+  title: Reply
+  container-title: PMLA
+  volume: 122
+  issue: 5
+  issued:
+    month: 10
+    year: 2007
+  page: 1608-1612
+  source: JSTOR
+  URL: http://www.jstor.org/stable/25501809
 
 - id: galloway12
   type: book
@@ -1637,8 +1663,9 @@ references:
   author:
     given: Marcel
     family: Duchamp
-  title: "Salt Seller: The Writings of Marcel Duchamp (Marchand du sel)"
+  title: "Salt Seller: The Writings of Marcel Duchamp"
   # French title in parentheses is uppercased in cite.
+  # Removed (Marchand du Sel).
   editor:
   - given: Michel
     family: Sanouillet
@@ -1655,6 +1682,7 @@ references:
     given: Craig
     family: Dworkin
   title: The Imaginary Solution
+  title-short: Imaginary
   container-title: Contemporary Literature
   volume: 48
   issue: 1
@@ -2232,8 +2260,7 @@ Garde"
 - id: purgatorio
   type: book
   author:
-    given: Dante
-    family: Alighieri
+    given: Dante Alighieri
   translator:
     given: Robert M.
     family: Durling
@@ -2605,6 +2632,7 @@ Garde"
 - id: bervin-asymptote
   type: interview
   title: An interview with Jen Bervin
+  title-short: Interview
   author:
   - given: Jen
     family: Bervin
@@ -2618,6 +2646,7 @@ Garde"
 - id: notes-on-conceptualisms
   type: book
   title: Notes on Conceptualisms
+  title-short: Notes
   author:
   - given: Vanessa
     family: Place

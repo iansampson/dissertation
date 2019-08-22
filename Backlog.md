@@ -4,14 +4,16 @@
 ### Must
 
 ### Should
-- [ ] Fix errors in John’s notes.
 - [ ] Add page number for Bellos on 145.
-- [ ] Add page number for James quote on 28.
-- [ ] Add title for Calvino quote in footnote 29.
 - [ ] Add citation of Swift Standard Library
 - [ ] Fix Pages bookstore citation on 169.
 
+- [ ] Put Bénabou in the right order. (Requires installing Unicode collation with pandoc.)
+
+---
+
 ### Could
+- [ ] Cite Keats, “The Eve of St. Agnes” from a more reliable source (e.g. Poems & Letters)
 - [ ] Cite Donne, “The Computation,” by itself (since Johnson does not technically cite it).
 - [ ] Add name in brackets for McCarty if needed (53). (Although it is technically correct MLA).
 
@@ -27,8 +29,11 @@
 
 - [ ] Remove Davenport from biblio if deemed unnecessary
       (as the container-author field doesn’t appear correctly.)
+- [ ] Add page number to inline Calvino quote re: Carlo Levi (“tangled”).
+(Difficult to do without the Italian, and the block quote gives a page number, which is probably the same.)
 
 ### Won’t
+- [ ] Add line numbers to poetry citations after block quotes (e.g. with Bervin and Shakespeare on p. 145).
 - [ ] Find whatever you meant by Magné, “Tentative” (re: food in Perec)
 - [ ] Consider altering summary of Bartlebooth on 145 (or your earlier summary).
       Repetitive.
@@ -49,6 +54,8 @@
 
 ---
 ### Done
+- [x] Add title for Calvino quote in footnote 29.
+- [x] Add page number for James quote on 28.
 - [x] Reread footnotes, especially new ones.
 - [x] Reread bibliography.
 - [x] Cut 16+ words from abstract
@@ -69,3 +76,4 @@
 - [x] Check bibliography for:
   - [x] Jullien [missing]
   - [x] Wadhera [Wadhera]
+- [x] Fix errors in John’s notes.
