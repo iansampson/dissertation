@@ -1508,6 +1508,18 @@ references:
 
 # MARK: - Bök
 
+- id: bök-pages-reading
+  type: speech
+  author:
+    given: Christian
+    family: Bök
+  event: Poetry reading at Pages Bookstore
+  event-place: Calgary
+  event-date:
+    year: 2014
+    month: 8
+    day: 22
+
 - id: adorno91
   type: chapter
   author:

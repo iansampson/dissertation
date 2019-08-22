@@ -2,22 +2,21 @@
 
 
 ### Must
+- [ ] Write emails to Marc, Michelle, and Cole.
+- [ ] Send!
 
 ### Should
-- [ ] Fix Pages bookstore citation on 169.
-
----
+- [ ] Double check for citation errors with search.
+- [ ] Tweak block quote indentation
+- [ ] Remove empty space at the top of some pages (e.g. 107)
 
 ### Could
+- [ ] Slightly extend acknowledgement to mom and Andreas.
+
 - [ ] Put Bénabou in the right order. (Requires installing Unicode collation with pandoc.)
 - [ ] Cite Keats, “The Eve of St. Agnes” from a more reliable source (e.g. Poems & Letters)
 - [ ] Cite Donne, “The Computation,” by itself (since Johnson does not technically cite it).
 - [ ] Add name in brackets for McCarty if needed (53). (Although it is technically correct MLA).
-
-- [ ] Tweak block quote indentation
-- [ ] Remove empty space at the top of some pages (e.g. 107)
-
-- [ ] Slightly extend acknowledgement to mom and Andreas.
 
 - [ ] Add books mentioned in Dickinson footnote to bibliography
 - [ ] Add footnote on Agamben and Calvino
@@ -51,6 +50,7 @@
 
 ---
 ### Done
+- [x] Fix Pages bookstore citation on 169.
 - [x] Add citation of Swift Standard Library
 - [x] Add page number for Bellos on 145.
 - [x] Add title for Calvino quote in footnote 29.
