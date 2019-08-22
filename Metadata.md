@@ -40,7 +40,9 @@ nocite: |
   @mcsweeneys
   @tapeworm-foundry
 	@bens80
+  @perloff-genius
 
+	@adorno-parataxis
   @oed-enumeration
   @perec-penser
   @perec-thoughts
@@ -50,6 +52,7 @@ nocite: |
   @agamben17
   @perec-granta
 	@perec-species
+  @perec-vie
 	@jack17
 	@wolff-reading-potential
 	@wolff-oracle
@@ -104,6 +107,7 @@ nocite: |
   @puff14
   @ohara05
   @perec79
+  @perec-disparition
   @perloff04
   @perloff16
   @queneau89
@@ -127,6 +131,7 @@ nocite: |
   @bergvall-about-face
   @bergvall-not-tale
 
+  @johnson-hyperboles
   @johnson05
   @davenport05
   @bervin08
