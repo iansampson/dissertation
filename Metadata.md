@@ -55,6 +55,8 @@ nocite: |
 	@wolff-oracle
 	@wilken-fox
 	@magne-ordinateur
+  @bellos-life
+  @bellos-machine
 
 	@chun11
   @deman84

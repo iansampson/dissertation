@@ -489,6 +489,36 @@ references:
 
 # MARK: - Perec
 
+- id: bellos-life
+  type: book
+  title: "Georges Perec: a life in words"
+  title-short: A life
+  author:
+    given: David
+    family: Bellos
+  publisher-place: Boston
+  publisher: Godine
+  issued:
+    year: 1993
+
+- id: bellos-machine
+  type: chapter
+  title: Georges Perec’s thinking machines
+  title-short: Machines
+  author:
+    given: David
+    family: Bellos
+  container-title: "Mainframe experimentalism: early computing and the foundations of the digital arts"
+  editor:
+    - given: Hannah B.
+      family: Higgins
+    - given: Douglas
+      family: Kahn
+  publisher-place: Berkeley
+  publisher: University of California Press
+  issued:
+    year: 2012
+
 - id: keats-eve
   type: webpage
   title: The eve of St. Agnes
