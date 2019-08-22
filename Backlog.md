@@ -4,15 +4,12 @@
 ### Must
 
 ### Should
-- [ ] Add page number for Bellos on 145.
-- [ ] Add citation of Swift Standard Library
 - [ ] Fix Pages bookstore citation on 169.
-
-- [ ] Put Bénabou in the right order. (Requires installing Unicode collation with pandoc.)
 
 ---
 
 ### Could
+- [ ] Put Bénabou in the right order. (Requires installing Unicode collation with pandoc.)
 - [ ] Cite Keats, “The Eve of St. Agnes” from a more reliable source (e.g. Poems & Letters)
 - [ ] Cite Donne, “The Computation,” by itself (since Johnson does not technically cite it).
 - [ ] Add name in brackets for McCarty if needed (53). (Although it is technically correct MLA).
@@ -54,6 +51,8 @@
 
 ---
 ### Done
+- [x] Add citation of Swift Standard Library
+- [x] Add page number for Bellos on 145.
 - [x] Add title for Calvino quote in footnote 29.
 - [x] Add page number for James quote on 28.
 - [x] Reread footnotes, especially new ones.

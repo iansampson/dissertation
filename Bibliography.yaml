@@ -489,6 +489,27 @@ references:
 
 # MARK: - Perec
 
+- id: swift-enumeration-function
+  type: webpage
+  title: "Enumeration"
+  container-title: "The Swift programming language: Swift 5.1"
+  URL: "https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html#"
+  accessed:
+    day: 21
+    month: 8
+    year: 2019
+
+- id: swift-enumeration-type
+  type: entry-dictionary
+  title: "enumerated()"
+  container-title: Apple Developer Documentation
+  URL: "https://developer.apple.com/documentation/swift/array/1687832-enumerated"
+  accessed:
+    day: 21
+    month: 8
+    year: 2019
+  language: fr
+
 - id: bellos-life
   type: book
   title: "Georges Perec: a life in words"
