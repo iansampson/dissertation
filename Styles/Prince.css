@@ -125,6 +125,7 @@ h1, .title, .subtitle {
   padding-bottom: 0;
   text-transform: uppercase;
   text-align: center;
+  line-height: 1.2;
 }
 
 header > h1 {
@@ -213,7 +214,7 @@ ol {
 .abstract h1 {
   text-transform: none;
   line-height: 1.35;
-
+  text-align: left;
 }
 
 .abstract {
