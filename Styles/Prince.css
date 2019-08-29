@@ -61,12 +61,14 @@ p {
 
 p + p {
   text-indent: 1.5em;
+  /*text-indent: 0.25in;*/
 }
 
 blockquote {
   line-height: 1.2;
   margin-top: 7.2pt;
   margin-bottom: 7.2pt;
+  margin-left: 3em;
   padding-top: 0;
   padding-bottom: 0;
   break-inside: avoid;
@@ -82,7 +84,8 @@ blockquote + blockquote {
 }
 
 .footnotes blockquote {
-  margin-top: 7.2pt
+  margin-top: 14.4pt;
+  margin-bottom: 14.4pt;
 }
 
 a {
@@ -217,6 +220,7 @@ ol {
   text-transform: none;
   line-height: 1.35;
   text-align: left;
+  margin-top: 1in;
 }
 
 .abstract {
@@ -231,4 +235,16 @@ ol {
     @bottom {
         content: none;
     }
+}
+
+cite.dissertation {
+  font-style: normal;
+}
+
+cite.dissertation::before {
+  content: "“"
+}
+
+cite.dissertation::after {
+  content: "”"
 }

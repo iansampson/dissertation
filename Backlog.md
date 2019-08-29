@@ -1,14 +1,29 @@
 # Dissertation backlog
 
+### Submission (must)
+* Wait for response from Lorraine
+- [ ] Email Cole re: signing
 
-### Must
-- [ ] Write emails to Marc, Michelle, and Cole.
-- [ ] Send!
+* Wait for response from readers
+- [ ] Email Michelle re: signing
+- [ ] Submit PDF (via ETD system)
+- [ ] Pay dissertation fee and filing fee
+- [ ] Obtain Letter of Clearance from the Bursar
+
+- [ ] Send documents to Barbara Bennett:
+	- [ ] Title page
+	- [ ] Abstract
+	- [ ] Receipt for Survey of Earned Doctorates
+	- [ ] Receipt for PhD Exit Survey
+	- [ ] Letter of Clearance from the Bursar
+	- [ ] Signature page (via Lorraine)
 
 ### Should
-- [ ] Tweak block quote indentation
-- [ ] Remove empty space at the top of some pages (e.g. 107)
 - [ ] Slightly extend acknowledgement to mom and Andreas.
+- [ ] Avoid dangling line in Acknowledgement (perhaps fixed by the change above.)
+- [ ] Find out correct date (Sept. 13 or May 1) for title page, copyright page, and abstract
+
+---
 
 ### Could
 - [ ] change repetitive “as well as” in bio to “a translator *and* a poet
@@ -27,6 +42,9 @@
       (as the container-author field doesn’t appear correctly.)
 - [ ] Add page number to inline Calvino quote re: Carlo Levi (“tangled”).
 (Difficult to do without the Italian, and the block quote gives a page number, which is probably the same.)
+- [ ] Consider renaming vita to curriculum vitae
+- [ ] Consider adjusting title page spacing
+- [ ] Considering adjusting left margin to 1.5" and right margin to 1"
 
 ### Won’t
 - [ ] Add in-text reference for OED potential citation
@@ -73,6 +91,7 @@
 
 ---
 ### Done
+- [x] Tweak block quote indentation
 - [x] Goldsmith, readership and thinkership missing a page reference
 - [x] Disambiguate Perloff references
 - [x] Disambiguate Roubaud in Eunoia chapter.
@@ -106,3 +125,7 @@
   - [x] Jullien [missing]
   - [x] Wadhera [Wadhera]
 - [x] Fix errors in John’s notes.
+- [x] Write emails to Marc, Michelle, and Cole.
+- [x] Send!
+- [x] Remove empty space at the top of some pages (e.g. 107)
+- [x] Consider enclosing dissertation title in abstract in quotation marks rather than italicizing
