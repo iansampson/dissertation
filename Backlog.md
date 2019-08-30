@@ -1,18 +1,20 @@
 # Dissertation backlog
 
 ### Submission (must)
-* Wait for response from Lorraine
-- [ ] Email Cole re: signing
+- [ ] Email Barbara Bennett to confirm you don’t have to pay the filing fee (only the dissertation fee)
+- [ ] Pay dissertation fee (and filing fee: probably not)
+			* Cashier’s Office: https://www.brown.edu/about/administration/cashier/student-payment-information
+			* Cashier@brown.edu, 401-863-1280
+- [ ] Obtain Letter of Clearance from the Bursar
+			Bursar@brown.edu
 
 * Wait for response from readers
 - [ ] Email Michelle re: signing
 - [ ] Submit PDF (via ETD system)
-- [ ] Pay dissertation fee and filing fee
-- [ ] Obtain Letter of Clearance from the Bursar
 
 - [ ] Send documents to Barbara Bennett:
 	- [ ] Title page
-	- [ ] Abstract
+	- [ ] Abstract (electronic copy is sufficient)
 	- [ ] Receipt for Survey of Earned Doctorates
 	- [ ] Receipt for PhD Exit Survey
 	- [ ] Letter of Clearance from the Bursar
@@ -20,13 +22,14 @@
 
 ### Should
 - [ ] Slightly extend acknowledgement to mom and Andreas.
-- [ ] Avoid dangling line in Acknowledgement (perhaps fixed by the change above.)
 - [ ] Find out correct date (Sept. 13 or May 1) for title page, copyright page, and abstract
 
 ---
 
 ### Could
-- [ ] change repetitive “as well as” in bio to “a translator *and* a poet
+- [x] change repetitive “as well as” in bio to “a translator *and* a poet
+- [ ] p. 114 paragraph cut off before block quote
+- [ ] Align pages that begin with single-spaced and double-spaced elements
 - [ ] Put Bénabou in the right order. (Requires installing Unicode collation with pandoc.)
 - [ ] Remove double quotes around title on Dedeo (in MLA).
 - [ ] Cite Keats, “The Eve of St. Agnes” from a more reliable source (e.g. Poems & Letters)
@@ -91,6 +94,9 @@
 
 ---
 ### Done
+- [x] Email Lorraine re: Cole
+- [x] Consider removing page breaks around block quotes (at least for long quotations).
+- [x] Avoid dangling line in Acknowledgement (perhaps fixed by the change above.)
 - [x] Tweak block quote indentation
 - [x] Goldsmith, readership and thinkership missing a page reference
 - [x] Disambiguate Perloff references
@@ -129,3 +135,5 @@
 - [x] Send!
 - [x] Remove empty space at the top of some pages (e.g. 107)
 - [x] Consider enclosing dissertation title in abstract in quotation marks rather than italicizing
+- [x] Wait for response from Lorraine
+- [x] Email Cole re: signing
