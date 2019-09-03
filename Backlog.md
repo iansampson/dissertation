@@ -1,16 +1,14 @@
 # Dissertation backlog
 
 ### Submission (must)
-* Wait for response from Barbara Bennett
-- [ ] Update dissertation date if needed
-- [ ] Pay dissertation fee (and filing fee: probably not)
+- [ ] Make final edits to dissertation
+- [ ] Submit PDF (via ETD system)
+
+- [ ] Pay dissertation fee
 			* Cashier’s Office: https://www.brown.edu/about/administration/cashier/student-payment-information
 			* Cashier@brown.edu, 401-863-1280
 - [ ] Obtain Letter of Clearance from the Bursar
 			Bursar@brown.edu
-
-- [ ] Make final edits to dissertation
-- [ ] Submit PDF (via ETD system)
 
 - [ ] Send documents to Barbara Bennett:
 	- [ ] Title page
@@ -141,4 +139,6 @@
 - [x] Email Barbara Bennett
  	- [x] to confirm you don’t have to pay the filing fee (only the dissertation fee)
 	- [x] to confirm date on the dissertation
-- [ ] Find out correct date (Sept. 13 or May 1) for title page, copyright page, and abstract
+- [x] Find out correct date (Sept. 13 or May 1) for title page, copyright page, and abstract
+- [x] Update dissertation date if needed
+- [x] Wait for response from Barbara Bennett
