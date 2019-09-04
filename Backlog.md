@@ -1,25 +1,13 @@
 # Dissertation backlog
 
 ### Submission (must)
-- [ ] Make final edits to dissertation
-- [ ] Submit PDF (via ETD system)
-
-- [ ] Pay dissertation fee
-			* Cashier’s Office: https://www.brown.edu/about/administration/cashier/student-payment-information
-			* Cashier@brown.edu, 401-863-1280
 - [ ] Obtain Letter of Clearance from the Bursar
 			Bursar@brown.edu
 
 - [ ] Send documents to Barbara Bennett:
-	- [ ] Title page
-	- [ ] Abstract (electronic copy is sufficient)
-	- [ ] Receipt for Survey of Earned Doctorates
-	- [ ] Receipt for PhD Exit Survey
+	- [ ] Receipt from the Cashier’s Office
 	- [ ] Letter of Clearance from the Bursar
-	- [ ] Signature page (via Lorraine)
-
-### Should
-- [ ] Slightly extend acknowledgement to mom and Andreas.
+	* Signature page (via Lorraine)
 
 ---
 
@@ -142,3 +130,13 @@
 - [x] Find out correct date (Sept. 13 or May 1) for title page, copyright page, and abstract
 - [x] Update dissertation date if needed
 - [x] Wait for response from Barbara Bennett
+- [x] Make final edits to dissertation
+- [x] Submit PDF (via ETD system)
+- [x] Title page
+- [x] Abstract (electronic copy is sufficient)
+- [x] Receipt for Survey of Earned Doctorates
+- [x] Receipt for PhD Exit Survey
+- [x] Slightly extend acknowledgement to mom and Andreas.
+- [x] Pay dissertation fee
+		* Cashier’s Office: https://www.brown.edu/about/administration/cashier/student-payment-information
+		* Cashier@brown.edu, 401-863-1280
