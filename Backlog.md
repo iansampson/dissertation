@@ -1,18 +1,12 @@
 # Dissertation backlog
 
 ### Submission (must)
-- [ ] Obtain Letter of Clearance from the Bursar
-			Bursar@brown.edu
-
-- [ ] Send documents to Barbara Bennett:
-	- [ ] Receipt from the Cashier’s Office
-	- [ ] Letter of Clearance from the Bursar
-	* Signature page (via Lorraine)
+	* Wait for readers to sign and Lorraine to bring the signature page
+		to Barbara Bennett.
 
 ---
 
 ### Could
-- [x] change repetitive “as well as” in bio to “a translator *and* a poet
 - [ ] p. 114 paragraph cut off before block quote
 - [ ] Align pages that begin with single-spaced and double-spaced elements
 - [ ] Put Bénabou in the right order. (Requires installing Unicode collation with pandoc.)
@@ -140,3 +134,9 @@
 - [x] Pay dissertation fee
 		* Cashier’s Office: https://www.brown.edu/about/administration/cashier/student-payment-information
 		* Cashier@brown.edu, 401-863-1280
+- [x] Obtain Letter of Clearance from the Bursar
+			Bursar@brown.edu
+- [x] Send documents to Barbara Bennett:
+	- [x] Receipt from the Cashier’s Office
+	- [x] Letter of Clearance from the Bursar
+- [x] change repetitive “as well as” in bio to “a translator *and* a poet
