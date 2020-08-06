@@ -1,0 +1,231 @@
+# References
+
+- [ ] Brooks
+- [ ] Dworkin, thinkership & readership
+- [ ] Calvino, *Lezioni*
+- [ ] OED, potential
+- [ ] Matthews, Compendium
+- [ ] Motte, Introduction
+- [ ] Arnaud (citing Queneau)
+- [ ] Levin Becker, Daniel (only one source)
+- [ ] Queneau, “Poems”
+- [ ] Calvino, *Literature Machine*
+- [ ] Le Lionnais, ctd. in Motte, Introduction
+- [ ] Monfort, New Media Reader
+- [ ] Aarseth, Cybertext
+- [ ] Brian Reed, *Nobody’s Business*
+- [ ] Scott Pound, article re: Goldsmith
+- [ ] Against Expression
+- [ ] Dworkin, “Fate of Echo”
+- [ ] Calvino, Six Memos (English)
+- [ ] Dworkin, Poetry
+- [ ] Poucel
+- [ ] Perec, *Penser Classer*
+- [ ] Johnson
+- [ ] Adorno, Parataxis
+- [ ] OED, enumeration
+- [ ] Ernst, Wolfgang Digital Memory
+- [ ] Keats
+- [ ] Magné, Index
+- [ ] James, Constraining Chance
+- [ ] Folsom, Database
+- [ ] Folsom, Reply
+- [ ] Hayles, symbionts
+- [ ] Alan Liu, database sublime
+- [ ] Alexander Galloway
+- [ ] Kittler
+- [ ] Jagoda
+- [ ] Perec, Thoughts of Sorts
+- [ ] Perec, Inventory
+- [ ] Perec, Life a user’s manual
+- [ ] Eco, The Infinity of Lists
+- [ ] Virgil, Georgics
+- [ ] Ian Jack
+- [ ] Kant, Third Critique
+- [ ] Perec, Species of Spaces
+- [ ] McCarty, Willard
+- [ ] Tung-Hui Hu
+- [ ] Calvino, Lezioni
+- [ ] Chun, Wendy
+- [ ] Calvino, Invisible Cities
+- [ ] Stiegler, Bernard, “The Discrete Image”
+- [ ] Coleridge, Kubla Khan
+- [ ] scorporare
+- [ ] Evens, Logic of the Digital
+- [ ] Scappetone, *Killing the Moonlight*
+- [ ] Krieger, Murray, ekphrasis
+- [ ] Mitchell, ekphrasis
+- [ ] Eco, The Infinity of Lists
+- [ ] Stiegler, *Technics and Time*
+- [ ] Calvino, Il Comico
+- [ ] Manet von Montfrans
+- [ ] Bénabou
+- [ ] Perec, La disparation
+- [ ] Perec, Corsican detective in La disparation
+- [ ] Bök, Eunoia
+- [ ] Bök, On Being Stubborn
+- [ ] Starnino
+- [ ] Perloff, The Oulipo Factor
+- [ ] Ngai, Stuplimity
+- [ ] Rancière, Aisthesis
+- [ ] Rancière, Aesthetics and Politics
+- [ ] Baetens and Poucel
+- [ ] Bök, Nude Formalism
+- [ ] Duchamp
+- [ ] Bök, Pataphysics
+- [ ] Dworkin, “Imaginary”
+- [ ] Barth, re: Borges
+- [ ] Meltzer, conceptual art
+- [ ] Bergvall, Constraint
+- [ ] Bergvall, Infraordinary
+- [ ] Bergvall, Via
+- [ ] Sedgewick, Touching Feeling
+- [ ] Elizabeth Freeman
+- [ ] Tan Lin, ambient poetics
+- [ ] Perloff, disambiguate?
+- [ ] Bergvall, The Not Tale
+- [ ] Bergvall, Meddle English
+- [ ] midden, OED
+- [ ] Chaucer, Canterbury Tales
+- [ ] appareil, MED
+- [ ] pyre, OED
+- [ ] how, OED
+- [ ] Pound, Cantos
+- [ ] Johnson, Radi os
+- [ ] Bervin, Nets
+- [ ] Dworkin, Reading the Illegible
+- [ ] Davenport, preface
+- [ ] Blake, Marriage of Heaven and hell
+- [ ] McCaffery, corrosive poetics
+- [ ] Fitterman and Place, Notes on Conceptualisms
+- [ ] Bervin and Knight, Interview
+- [ ] Shakespeare, Sonnets
+- [ ] Shakespeare, Hamlet
+- [ ] Stallybrass et al.
+- [ ] Hayles, attention
+- [ ] Reed
+- [ ] All that is evident
+- [ ] Wershler-Henry, Tapeworm Foundry
+- [ ] Krauss, Reinventing the medium
+- [ ] Hansen, new philosophy for new media
+- [ ] Stiegler, Automatic Society
+- [ ] Moretti, Graphs, maps, and trees
+- [ ] Moretti, distant reading (not actually cited)
+- [ ] le Lionnais, Second Manifesto
+- [ ] Motte, early Oulipo
+- [ ] Agamben, Bartleby, on Contingency
+- [ ] Perec, Entretiens
+- [ ] Perec, La vie mode d’emploi
+- [ ] Queneau, Poems (Chapman translation)
+- [ ] Enumeration (Swift)
+- [ ] enumerated() (Swift)
+- [ ] Bellos, Machines
+- [ ] Wolff, Oracle
+- [ ] Foucault, The Order of Things (make sure it’s the only reference ...)
+- [ ] James, Constraining Chance
+- [ ] Jullien
+- [ ] Wadhera
+- [ ] Perec, Species of Spaces
+- [ ] Sturrock (two translations of the inventory ...)
+- [ ] Barthes, Brillat-Savarin
+- [ ] Bellos, A Life
+- [ ] Becker
+- [ ] McCarty
+- [ ] Chiesa
+- [ ] Calvino, letters
+- [ ] Ngai, Categories
+- [ ] Modena
+- [ ] McLaughlin
+- [ ] de Man, Rhetoric of Romanticism
+- [ ] Mitchell, ekphrasis
+- [ ] Fujiwara
+- [ ] Leslie Ahenda
+- [ ] Eek the alien?
+- [ ] Bedient, Against Conceptualism
+- [ ] Perec, History of the Lipogram
+- [ ] Goldsmith, “Flarf”
+- [ ] Bök, Late past the post
+- [ ] Kaufman, Negatively capable
+- [ ] Kaufman, Everybody hates Kant
+- [ ] Kaufman, Lyric’s expression
+- [ ] O Hara, the day lady died
+- [ ] Spitzer
+- [ ] Dinshaw, How soon is now
+- [ ] Cole and Vance-Smith, Legitimacy
+- [ ] François, Open Secrets
+- [ ] Bergvall, a reading (of About Face)
+- [ ] Fenollosa, The Chinese Written Character as a Medium for Poetry
+- [ ] Pound, Cantos
+- [ ] Bervin, Studies in Scale
+- [ ] Bervin, Composites
+- [ ] Jackson, Dickinson’s misery
+- [ ] Dworkin and Goldsmith, Against Expression
+- [ ] Cooney re: Goldsmith
+- [ ] Essick
+- [ ] Gibbons re: Broodthaers
+- [ ] Michalis Pichler
+- [ ] Colebrook, Queer Aesthetics
+- [ ] Yates, More Life
+- [ ] Broqua
+- [ ] Derrida, Freud and the scene of writing
+- [ ] Chun, enduring ephemeral
+- [ ] Goldsmith, two poems from the day
+- [ ] Shakespeare, Burrow ed.
+- [ ] Shaw
+- [ ] Wertheim and Viegener, intro to Noulipoean analects
+- [ ] Clover, technical composition
+- [ ] Ardam
+- [ ] Warren Motte, ... ?
+- [ ] Magné, ordinateur
+- [ ] Wolff, Reading potential
+- [ ] Wilkin, The Quick brown fox
+- [ ] Jullien
+- [ ] Johnson, Hyperboles
+- [ ] Chiesa
+- [ ] Bök, poetry reading
+- [ ] Bök, Xenotext
+- [ ] Morton, poetics of spice
+- [ ] Izenberg, Being Numerous
+- [ ] Matthews, potential
+- [ ] Arnaud
+- [ ] Poucel, drunken boat intro
+- [ ] Kittler, gramophone
+- [ ] Virgil, Georgics
+- [ ] Bergvall, Fig
+
+---
+
+### Should
+- [x] Check to make sure Stallybrass references compile correctly
+- [x] Double check that Swift references recompile correctly
+- [x] Add page number for Olga’s cry of Maldiction! in La disparition
+- [x] Disambiguate Ngai in Eunoia.
+- [x] Makes sure Hayles, symbionts with short title compiles correctly
+- [x] Make sure Disparition page numbers (Mais il n’y a pas non plus d’) appear correctly
+- [x] Double check “black hole” for page number
+
+---
+
+### Could
+- [ ] Add in-text reference for OED potential citation
+- [ ] Add Donne, The Computation
+- [ ] Add specific reference to Pound/Fenollosa
+- [ ] Add bibliographic entry for Phillips, A Humament (only mentioned)
+- [ ] Disambiguate Perloff in Bergvall chapter
+      (if you cite *Unoriginal Genius*, which you do)
+- [ ] Does Tan Lin need page numbers?
+- [ ] Add page number for chrononormativity in Freeman
+- [ ] Add Eliot, epigram to the Wasteland (“il miglior fabbro”)
+- [ ] Make it clear that Valéry is cited in Baetens and Poucel
+      (Or add direct reference to Valéry: not needed: “sympathy for the return to order”)
+- [ ] Consider adding reference for Marvell, “ye living lamps”
+- [ ] Coleridge citation? Otherwise change to ctd. in Starnino.
+- [ ] Add page number to second Ngai instance re: stuplimity.
+- [ ] Consider adding *Drift*, since you mention it
+- [ ] Consider adding line numbers to Bergvall
+- [ ] Consider finding a better Virgil translation. Or lineate.
+- [ ] Consider quoting Chun in Calvino chapter rather than just referencing.
+- [ ] Disambiguate McLaughlin if you add the *other* McLaughlin (which you don’t, so forget about it)
+- [ ] Disambiguate Johnson references (because *Hyperboles* is in bibliography)
+- [ ] Consider adding (Place and Fitterman 11) note in Bergvall to help locate text
+      in bibliography (although the preface is written by Fitterman ...)

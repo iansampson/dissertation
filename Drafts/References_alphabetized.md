@@ -1,0 +1,190 @@
+- [x] Aarseth, Cybertext
+- [+] Adorno, On lyric poetry and society
+- [ ] Adorno, Parataxis
+- [x] Agamben, Bartleby, on Contingency
+- [x] All that is evident
+- [x] appareil, MED
+- [x] Ardam
+- [x] Arnaud
+- [x] Baetens and Poucel
+- [x] Barth, re: Borges
+- [x] Barthes, Brillat-Savarin
+- [x] Bedient, Against Conceptualism
+- [x] Bellos, A Life
+- [x] Bellos, Machines
+- [+] Benabou, Rule and Constraint
+- [+] Bens, Jacques
+- [x] Bergvall, Constraint
+- [x] Bergvall, Infraordinary
+- [x] Bergvall, Meddle English
+- [x] Bergvall, The Not Tale
+- [x] Bergvall, Via
+- [x] Bergvall, a reading (of About Face)
+- [x] Bervin and Knight, Interview
+- [x] Bervin, Composites
+- [x] Bervin, Nets
+- [x] Bervin, Studies in Scale
+- [x] Blake, Marriage of Heaven and hell
+- [x] Brooks
+- [x] Broqua
+- [x] Bénabou
+- [x] Bök, Eunoia
+- [x] Bök, Late past the post
+- [x] Bök, Nude Formalism
+- [x] Bök, On Being Stubborn
+- [x] Bök, Pataphysics
+- [x] Bök, Xenotext
+- [x] Bök, poetry reading
+- [+] Bök, When Cyborgs Versify
+- [x] Calvino, *Lezioni*
+- [x] Calvino, *Literature Machine*
+- [x] Calvino, Il Comico
+- [x] Calvino, Invisible Cities
+- [x] Calvino, Six Memos (English)
+- [x] Calvino, letters
+- [x] Chaucer, Canterbury Tales
+- [x] Chiesa
+- [x] Chun, Wendy, Programmed Visions
+- [x] Chun, enduring ephemeral
+- [x] Clover, technical composition
+- [x] Cole and Vance-Smith, Legitimacy
+- [x] Colebrook, Queer Aesthetics
+- [x] Coleridge, Kubla Khan
+- [x] Cooney re: Goldsmith
+- [x] Davenport, preface
+- [x] de Man, Rhetoric of Romanticism
+- [x] Derrida, Freud and the scene of writing
+- [x] Dinshaw, How soon is now
+- [x] Duchamp
+- [x] Dworkin and Goldsmith, Against Expression
+- [x] Dworkin, Poetry
+- [x] Dworkin, Reading the Illegible
+- [x] Dworkin, thinkership & readership
+- [x] Dworkin, “Fate of Echo”
+- [x] Dworkin, “Imaginary”
+- [x] Eco, The Infinity of Lists
+- [x] Enumeration (Swift)
+- [x] enumerated() (Swift)
+- [x] enumeration, n. (OED)
+- [x] Ernst, Wolfgang Digital Memory
+- [x] Essick
+- [x] Evens, Logic of the Digital
+- [x] Fenollosa, The Chinese Written Character as a Medium for Poetry
+- [x] Fitterman and Place, Notes on Conceptualisms
+- [x] Folsom, Database
+- [x] Folsom, Reply
+- [x] Foucault, The Order of Things (make sure it’s the only reference ...)
+- [x] François, Open Secrets
+- [x] Freeman, Elizabeth
+- [x] Fujiwara
+- [x] Gibbons re: Broodthaers
+- [+] Genette
+- [x] Galloway, Alexander
+- [x] Goldsmith, two poems from the day
+- [x] Goldsmith, “Flarf”
+- [+] Goldsmith, Conceptual Poetics
+- [x] Hansen, new philosophy for new media
+- [x] Hayles, attention
+- [x] Hayles, symbionts
+- [x] how, OED
+- [x] Hu, Cloud
+- [x] Izenberg, Being Numerous
+- [x] Jack, Ian
+- [x] Jackson, Dickinson’s misery
+- [x] Jagoda
+- [x] James, Constraining Chance
+- [+] Jarry, Faustroll
+- [x] Johnson
+- [ ] Johnson, Hyperboles
+- [x] Johnson, Radi os
+- [+] Johnson, interview
+review of Johnson?
+- [x] Jullien
+- [x] Kant, Third Critique
+- [x] Kaufman, Everybody hates Kant
+- [x] Kaufman, Lyric’s expression
+- [x] Kaufman, Negatively capable
+- [x] Keats
+- [x] Kittler, gramophone
+- [x] Krauss, Reinventing the medium
+- [+] Krauss, post-medium condition
+- [ ] Krieger, Murray, ekphrasis
+- [x] le Lionnais, Second Manifesto
+- [x] Leslie Ahenda
+- [x] Levin Becker, Daniel (only one source)
+- [+] Lin, Tan
+      (What about plagarism/outsource?)
+- [x] Liu, Alan, database sublime
+- [+] MacDonald, Travis, erasure poetics
+- [x] Magné, Index
+- [x] Magné, ordinateur
+- [x] Matthews, potential
+- [x] McCaffery, corrosive poetics
+- [x] McCarty, Willard
+- [+] McGann, database
+- [x] McLaughlin
+- [x] Meltzer, conceptual art
+- [x] Michalis Pichler
+- [x] midden, OED
+- [x] Mitchell, ekphrasis
+- [x] Modena
+- [x] Montfrans, Manet von
+- [x] Montfort, New Media Reader
+- [x] Moretti, Graphs, maps, and trees
+- [x] Moretti, distant reading (not actually cited)
+- [ ] Morton, poetics of spice
+- [x] Motte, Introduction
+- [x] Motte, early Oulipo
+- [x] Ngai, Categories
+- [+] Ngai, Categories (book)
+- [ ] Ngai, Stuplimity
+- [+] Ngai, Ugly feelings
+- [x] O Hara, the day lady died
+- [x] Perec, *Penser Classer*
+- [x] Perec, Entretiens
+- [x] Perec, History of the Lipogram
+- [x] Perec, Inventory
+- [x] Perec, La disparation
+- [ ] Perec, La vie mode d’emploi
+- [x] Perec, Life a user’s manual
+- [x] Perec, Species of Spaces
+- [x] Perec, Thoughts of Sorts
+- [x] Perloff, The Oulipo Factor
+- [ ] Perloff, Unoriginal Genius
+- [+] Perloff, Towards a conceptual lyric
+- [x] potential (OED)
+- [x] Poucel
+- [x] Pound, Cantos
+- [x] Pound, Scott, article re: Goldsmith
+- [+] Puff, La contrainte et la règle
+- [x] pyre, OED
+- [x] Queneau, Poems (Chapman translation)
+- [x] Queneau, “Poèmes”
+- [+] Queneau, Oeuvres completes
+- [+] Ramazani, Poetry and mourning
+- [x] Rancière, Politics of aesthetics
+- [x] Rancière, Aisthesis
+- [x] Reed, Brian *Nobody’s Business*
+- [+] Roubaud, “Deux principes”
+- [+] Roubaud, “Introduction”
+- [x] Scappetone, *Killing the Moonlight*
+- [x] scorporare
+- [x] Sedgewick, Touching Feeling
+- [x] Shakespeare, Burrow ed.
+- [x] Shakespeare, Hamlet
+- [x] Shaw
+- [+] Shelley, Adonais
+- [x] Spitzer
+- [x] Stallybrass et al.
+- [x] Starnino
+- [x] Stiegler, *Technics and Time*
+- [x] Stiegler, Automatic Society
+- [x] Stiegler, Bernard, “The Discrete Image”
+- [x] Virgil, Georgics
+- [x] Wadhera
+- [x] Wershler-Henry, Tapeworm Foundry
+- [x] Wertheim and Viegener, intro to Noulipoean analects
+- [x] Wilkin, The Quick brown fox
+- [x] Wolff, Oracle
+- [x] Wolff, Reading potential
+- [x] Yates, More Life

@@ -1,0 +1,8 @@
+- [x] Adorno, Parataxis
+- [x] Perec, La vie mode d’emploi
+- [x] Krieger, Murray, ekphrasis
+- [x] Johnson, Hyperboles
+- [x] Ngai, Stuplimity
+- [x] Bergvall, Fig
+- [x] Morton, poetics of spice
+- [x] Perloff, Unoriginal Genius
